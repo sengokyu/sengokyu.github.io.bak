@@ -1,0 +1,3 @@
+[submodule "tools/qiita_exporter"]
+	path = tools/qiita_exporter
+	url = git@github.com:sengokyu/qiita_exporter.git
