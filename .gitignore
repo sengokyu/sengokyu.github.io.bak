@@ -8,3 +8,8 @@ _site/
 !.vscode/launch.json
 !.vscode/extensions.json
 *.code-workspace
+*.gem
+.bundle
+.sass-cache
+_site
+Gemfile.lock
