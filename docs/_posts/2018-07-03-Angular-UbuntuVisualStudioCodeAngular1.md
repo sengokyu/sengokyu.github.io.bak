@@ -1,23 +1,15 @@
 ---
-'created_at: ': '2018-07-03T17:47:00+09:00'
+date: '2018-07-03T17:47:00+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Ubuntu
-      versions: []
-    - name: TypeScript
-      versions: []
-    - name: Angular
-      versions: []
-    - name: VisualStudioCode
-      versions: []
-  state: 0
-title: "[Angular] \u958B\u767A\u74B0\u5883\u6E96\u5099 - Ubuntu\u3068Visual Studio\
-  \ Code\u3067\u59CB\u3081\u308BAngular (1)"
-'updated_at: ': '2018-07-11T18:46:48+09:00'
+published: true
+qiita_article_id: 2470dfa4b749571d5d68
+tags:
+- Ubuntu
+- TypeScript
+- Angular
+- VisualStudioCode
+title: '[Angular] 開発環境準備 - UbuntuとVisual Studio Codeで始めるAngular (1)'
+updated: '2018-07-11T18:46:48+09:00'
 
 ---
 # はじめに  

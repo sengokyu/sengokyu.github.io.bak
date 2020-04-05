@@ -1,23 +1,15 @@
 ---
-'created_at: ': '2019-02-20T23:14:27+09:00'
+date: '2019-02-20T23:14:27+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: TypeScript
-      versions: []
-    - name: Infragistics
-      versions: []
-    - name: PowerBI
-      versions: []
-    - name: igniteUI
-      versions: []
-  state: 0
-title: "[Microsoft] PowerBI\u30AB\u30B9\u30BF\u30E0\u30D3\u30B8\u30E5\u30A2\u30EB\u3067\
-  Infragistics Ignite UI\u306EData Grid\u3092\u4F7F\u3046"
-'updated_at: ': '2019-02-25T12:57:05+09:00'
+published: true
+qiita_article_id: 479e20eef2058a1af123
+tags:
+- TypeScript
+- Infragistics
+- PowerBI
+- igniteUI
+title: '[Microsoft] PowerBIカスタムビジュアルでInfragistics Ignite UIのData Gridを使う'
+updated: '2019-02-25T12:57:05+09:00'
 
 ---
 # はじめに  

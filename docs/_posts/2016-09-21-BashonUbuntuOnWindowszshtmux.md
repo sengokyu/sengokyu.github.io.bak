@@ -1,23 +1,15 @@
 ---
-'created_at: ': '2016-09-21T17:24:59+09:00'
+date: '2016-09-21T17:24:59+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Bash
-      versions: []
-    - name: Zsh
-      versions: []
-    - name: Windows
-      versions: []
-    - name: BashOnUbuntuOnWindows
-      versions: []
-  state: 0
-title: "Bash on Ubuntu On Windows\u306E\u30C7\u30D5\u30A9\u30EB\u30C8\u30B7\u30A7\u30EB\
-  \u3092zsh\u3001\u3042\u308B\u3044\u306Ftmux\u306B\u3059\u308B\uFF08\u5225\u89E3\uFF09"
-'updated_at: ': '2016-09-21T17:43:19+09:00'
+published: true
+qiita_article_id: dd3f0f6a13a6e0b925e8
+tags:
+- Bash
+- Zsh
+- Windows
+- BashOnUbuntuOnWindows
+title: Bash on Ubuntu On Windowsのデフォルトシェルをzsh、あるいはtmuxにする（別解）
+updated: '2016-09-21T17:43:19+09:00'
 
 ---
   

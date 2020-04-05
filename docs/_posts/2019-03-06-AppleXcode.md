@@ -1,20 +1,13 @@
 ---
-'created_at: ': '2019-03-06T13:54:53+09:00'
+date: '2019-03-06T13:54:53+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Xcode
-      versions: []
-    - name: apple
-      versions: []
-  state: 0
-title: "[Apple] Xcode\u521D\u5FC3\u8005\u3067\u3059\u3002\u30D3\u30EB\u30C9\u6210\u529F\
-  \u3059\u308B\u306E\u306B\u30B3\u30F3\u30D1\u30A4\u30EB\u30A8\u30E9\u30FC\u304C\u6D88\
-  \u3048\u307E\u305B\u3093"
-'updated_at: ': '2019-03-06T13:54:53+09:00'
+published: true
+qiita_article_id: 9e43a79bda9d94fbed95
+tags:
+- Xcode
+- apple
+title: '[Apple] Xcode初心者です。ビルド成功するのにコンパイルエラーが消えません'
+updated: '2019-03-06T13:54:53+09:00'
 
 ---
 # 環境  

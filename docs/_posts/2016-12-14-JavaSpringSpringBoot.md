@@ -1,21 +1,14 @@
 ---
-'created_at: ': '2016-12-14T19:20:13+09:00'
+date: '2016-12-14T19:20:13+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Java
-      versions: []
-    - name: spring
-      versions: []
-    - name: spring-boot
-      versions: []
-  state: 0
-title: "[Java][Spring] Spring Boot\u4F9D\u5B58\u6027\u6CE8\u5165\u306E\u4E0D\u53EF\
-  \u89E3\u306A\u30CF\u30DE\u30EA\u30CD\u30BF"
-'updated_at: ': '2016-12-14T19:20:13+09:00'
+published: true
+qiita_article_id: 1e9ae2218c06be0fecdb
+tags:
+- Java
+- spring
+- spring-boot
+title: '[Java][Spring] Spring Boot依存性注入の不可解なハマリネタ'
+updated: '2016-12-14T19:20:13+09:00'
 
 ---
 わかっているひとにとっては当たり前なネタなのかもですが、大いに苦しめられたのでここにお披露目します。  

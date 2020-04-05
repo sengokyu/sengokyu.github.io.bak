@@ -1,23 +1,15 @@
 ---
-'created_at: ': '2017-02-20T14:22:36+09:00'
+date: '2017-02-20T14:22:36+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: C#
-      versions: []
-    - name: .NET
-      versions: []
-    - name: "\u30C6\u30B9\u30C8"
-      versions: []
-    - name: NSubstitute
-      versions: []
-  state: 0
-title: "[C#][.NET] \u30E2\u30C3\u30AF\u30E9\u30A4\u30D6\u30E9\u30EANSubstitute\u4F7F\
-  \u3044\u65B9\u30E1\u30E2"
-'updated_at: ': '2018-02-09T20:58:08+09:00'
+published: true
+qiita_article_id: 48f58f778a05f13f922e
+tags:
+- C#
+- .NET
+- テスト
+- NSubstitute
+title: '[C#][.NET] モックライブラリNSubstitute使い方メモ'
+updated: '2018-02-09T20:58:08+09:00'
 
 ---
 .Net向けのモックライブラリは数あります。そのうちNSubstituteは、staticクラスや拡張メソッドをモック化できて便利なのです。  

@@ -1,21 +1,14 @@
 ---
-'created_at: ': '2018-10-24T12:51:49+09:00'
+date: '2018-10-24T12:51:49+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: zabbix
-      versions: []
-    - name: snmp
-      versions: []
-    - name: Cisco
-      versions: []
-  state: 0
-title: "[Cisco] IOS 12.3 SNMP\u3067\u53D6\u5F97\u3067\u304D\u308BifSpeed/ifHighSpeed\u304C\
-  \u5C0F\u3055\u3059\u304E\u308B\u30029kbps\u3068\u304B"
-'updated_at: ': '2018-10-24T12:51:49+09:00'
+published: true
+qiita_article_id: 19903bc92da2951faa7a
+tags:
+- zabbix
+- snmp
+- Cisco
+title: '[Cisco] IOS 12.3 SNMPで取得できるifSpeed/ifHighSpeedが小さすぎる。9kbpsとか'
+updated: '2018-10-24T12:51:49+09:00'
 
 ---
 # 前段  

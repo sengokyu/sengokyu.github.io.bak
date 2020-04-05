@@ -1,24 +1,15 @@
 ---
-'created_at: ': '2019-03-13T20:45:13+09:00'
+date: '2019-03-13T20:45:13+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: CentOS
-      versions: []
-    - name: KVM
-      versions: []
-    - name: "\u30AF\u30E9\u30A6\u30C9"
-      versions: []
-    - name: oVirt
-      versions: []
-  state: 0
-title: "[oVirt] \u4EEE\u60F3\u30DE\u30B7\u30F3\u30DE\u30CD\u30FC\u30B8\u30E3(oVirt\
-  \ Engine)\u306E\u6545\u969CHDD\u3092\u4EA4\u63DB\u3057\u305F\u304C\u3001\u9A5A\u304F\
-  \u307B\u3069\u7C21\u5358\u904E\u304E\u305F"
-'updated_at: ': '2019-03-21T23:15:11+09:00'
+published: true
+qiita_article_id: 80fe0118a81e65b9a9a7
+tags:
+- CentOS
+- KVM
+- クラウド
+- oVirt
+title: '[oVirt] 仮想マシンマネージャ(oVirt Engine)の故障HDDを交換したが、驚くほど簡単過ぎた'
+updated: '2019-03-21T23:15:11+09:00'
 
 ---
 # 作業内容サマリー  

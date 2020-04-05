@@ -1,19 +1,13 @@
 ---
-'created_at: ': '2015-09-10T20:57:11+09:00'
+date: '2015-09-10T20:57:11+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Mac
-      versions: []
-    - name: MovableType
-      versions: []
-  state: 0
-title: "mongoose Web\u30B5\u30FC\u30D0\u3092\u4F7F\u3063\u3066\u30B5\u30AF\u30C3\u3068\
-  MovableType\u3092\u52D5\u304B\u3059\u3002Yosemite\u3067\u3002"
-'updated_at: ': '2015-09-10T20:57:11+09:00'
+published: true
+qiita_article_id: 21e0939a0044af165504
+tags:
+- Mac
+- MovableType
+title: mongoose Webサーバを使ってサクッとMovableTypeを動かす。Yosemiteで。
+updated: '2015-09-10T20:57:11+09:00'
 
 ---
 ちょろっとだけMovableTypeを動かしたかったのです。その記録です。  

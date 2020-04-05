@@ -1,21 +1,14 @@
 ---
-'created_at: ': '2018-04-02T14:00:42+09:00'
+date: '2018-04-02T14:00:42+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Windows
-      versions: []
-    - name: Linux
-      versions: []
-    - name: Ubuntu
-      versions: []
-  state: 0
-title: "[Linux][Ubuntu] Windows 10\u30A4\u30F3\u30B9\u30C8\u30FC\u30EB\u7528USB\u30E1\
-  \u30E2\u30EA\u3092Ubuntu\u4E0A\u3067\u4F5C\u6210\u3059\u308B"
-'updated_at: ': '2018-04-02T14:00:42+09:00'
+published: true
+qiita_article_id: e18e16ed1c268a242131
+tags:
+- Windows
+- Linux
+- Ubuntu
+title: '[Linux][Ubuntu] Windows 10インストール用USBメモリをUbuntu上で作成する'
+updated: '2018-04-02T14:00:42+09:00'
 
 ---
 # これはなに？  

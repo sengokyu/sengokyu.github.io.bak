@@ -1,19 +1,13 @@
 ---
-'created_at: ': '2018-07-16T19:14:18+09:00'
+date: '2018-07-16T19:14:18+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: TypeScript
-      versions: []
-    - name: Angular
-      versions: []
-  state: 0
-title: "[Angular] \u3088\u304F\u4F7F\u308F\u308C\u308B\u30E2\u30B8\u30E5\u30FC\u30EB\
-  \u9054 - @NgModule\u3068\u306F\u4F55\u304B (4)"
-'updated_at: ': '2018-07-16T19:14:18+09:00'
+published: true
+qiita_article_id: 65422b39115b9e3bbf39
+tags:
+- TypeScript
+- Angular
+title: '[Angular] よく使われるモジュール達 - @NgModuleとは何か (4)'
+updated: '2018-07-16T19:14:18+09:00'
 
 ---
 `@NgModule`とは何かを知るシリーズ4回目です。  

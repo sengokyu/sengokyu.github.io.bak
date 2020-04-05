@@ -1,21 +1,14 @@
 ---
-'created_at: ': '2016-04-01T12:00:10+09:00'
+date: '2016-04-01T12:00:10+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Microsoft
-      versions: []
-    - name: Azure
-      versions: []
-    - name: PowerShell
-      versions: []
-  state: 0
-title: "PowerShell\u304B\u3089Microsoft Azure\u3092\u7BA1\u7406\u3059\u308B\u3010\u6E96\
-  \u5099\u7DE8\u3011"
-'updated_at: ': '2016-04-01T12:00:10+09:00'
+published: true
+qiita_article_id: 614a1d8faf52061c95cc
+tags:
+- Microsoft
+- Azure
+- PowerShell
+title: PowerShellからMicrosoft Azureを管理する【準備編】
+updated: '2016-04-01T12:00:10+09:00'
 
 ---
 Microsoft Azure管理ポータルには旧来のクラシック版と、新しいリソースマネージャ版があります。  

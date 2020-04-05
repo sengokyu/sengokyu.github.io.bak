@@ -1,18 +1,12 @@
 ---
-'created_at: ': '2019-02-24T20:38:37+09:00'
+date: '2019-02-24T20:38:37+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: TypeScript
-      versions: []
-  state: 0
-title: "TypeScript\u3067\u30E2\u30B8\u30E5\u30FC\u30EB\u53C2\u7167\u95A2\u4FC2\u3092\
-  \u89E3\u6C7A\u3067\u304D\u3066\u3044\u306A\u3044\u4EBA\uFF08\u81EA\u5206\uFF09\u306E\
-  \u305F\u3081\u306E\u30E1\u30E2"
-'updated_at: ': '2019-02-24T20:38:37+09:00'
+published: true
+qiita_article_id: c1e857bbb84ad29bacdb
+tags:
+- TypeScript
+title: TypeScriptでモジュール参照関係を解決できていない人（自分）のためのメモ
+updated: '2019-02-24T20:38:37+09:00'
 
 ---
 # はじめに  

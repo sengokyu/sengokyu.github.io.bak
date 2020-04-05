@@ -1,26 +1,16 @@
 ---
-'created_at: ': '2019-09-29T16:59:53+09:00'
+date: '2019-09-29T16:59:53+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: AWS
-      versions: []
-    - name: TypeScript
-      versions: []
-    - name: Angular
-      versions: []
-    - name: CloudFormation
-      versions: []
-    - name: lambda
-      versions: []
-  state: 0
-title: "[AWS] Angular\u30D7\u30ED\u30B8\u30A7\u30AF\u30C8\u3068AWS Lambda\u30D7\u30ED\
-  \u30B8\u30A7\u30AF\u30C8\u3092\u3044\u3063\u307A\u3093\u306B\u30D3\u30EB\u30C9\uFF06\
-  \u30C7\u30D7\u30ED\u30A4\u3057\u305F\u3044"
-'updated_at: ': '2019-11-22T21:21:42+09:00'
+published: true
+qiita_article_id: 6ed5b70f35d6d6008607
+tags:
+- AWS
+- TypeScript
+- Angular
+- CloudFormation
+- lambda
+title: '[AWS] AngularプロジェクトとAWS Lambdaプロジェクトをいっぺんにビルド＆デプロイしたい'
+updated: '2019-11-22T21:21:42+09:00'
 
 ---
 # はじめに  

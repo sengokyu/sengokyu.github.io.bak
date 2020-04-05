@@ -1,20 +1,14 @@
 ---
-'created_at: ': '2019-03-31T14:50:26+09:00'
+date: '2019-03-31T14:50:26+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: C#
-      versions: []
-    - name: JWT
-      versions: []
-    - name: ASP.NET_Core
-      versions: []
-  state: 0
-title: "[\u30E1\u30E2] Microsoft.AspNetCore.Authentication.JwtBearer"
-'updated_at: ': '2019-03-31T14:51:51+09:00'
+published: false
+qiita_article_id: 586973f83b1ef30b231d
+tags:
+- C#
+- JWT
+- ASP.NET_Core
+title: '[メモ] Microsoft.AspNetCore.Authentication.JwtBearer'
+updated: '2019-03-31T14:51:51+09:00'
 
 ---
 __:warning:この文書は書きかけです:warning:__  

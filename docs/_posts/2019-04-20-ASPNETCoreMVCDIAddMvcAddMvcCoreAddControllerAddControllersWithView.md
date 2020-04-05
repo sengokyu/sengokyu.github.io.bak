@@ -1,22 +1,15 @@
 ---
-'created_at: ': '2019-04-20T23:02:54+09:00'
+date: '2019-04-20T23:02:54+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: ASP.NET_MVC
-      versions: []
-    - name: .NETCore
-      versions: []
-    - name: ASP.NET_Core
-      versions: []
-  state: 0
-title: "[ASP.NET Core MVC] \u30B5\u30FC\u30D3\u30B9\u30B3\u30EC\u30AF\u30B7\u30E7\u30F3\
-  \uFF08DI\u30B3\u30F3\u30C6\u30CA\uFF09\u306E\u69CB\u6210\u65B9\u6CD5 AddMvc/AddMvcCore/AddController/AddControllersWithView\
-  \ \u306E\u9055\u3044"
-'updated_at: ': '2019-04-20T23:02:54+09:00'
+published: true
+qiita_article_id: 6c30d1de09a62e28348f
+tags:
+- ASP.NET_MVC
+- .NETCore
+- ASP.NET_Core
+title: '[ASP.NET Core MVC] サービスコレクション（DIコンテナ）の構成方法 AddMvc/AddMvcCore/AddController/AddControllersWithView
+  の違い'
+updated: '2019-04-20T23:02:54+09:00'
 
 ---
 # これはなに？  

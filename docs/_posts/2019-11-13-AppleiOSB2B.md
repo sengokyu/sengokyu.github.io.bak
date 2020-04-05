@@ -1,23 +1,15 @@
 ---
-'created_at: ': '2019-11-13T17:46:34+09:00'
+date: '2019-11-13T17:46:34+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: iPhone
-      versions: []
-    - name: iOS
-      versions: []
-    - name: apple
-      versions: []
-    - name: AppleBusinessManager
-      versions: []
-  state: 0
-title: "[Apple] iOS\u5411\u3051\u306BB2B\u696D\u52D9\u30A2\u30D7\u30EA\u3092\u914D\
-  \u4FE1\u3059\u308B\u624B\u7D9A\u304D\u307E\u3068\u3081"
-'updated_at: ': '2019-12-07T12:37:35+09:00'
+published: true
+qiita_article_id: 2539ec8108edec8ba8ed
+tags:
+- iPhone
+- iOS
+- apple
+- AppleBusinessManager
+title: '[Apple] iOS向けにB2B業務アプリを配信する手続きまとめ'
+updated: '2019-12-07T12:37:35+09:00'
 
 ---
 # これはなに？  

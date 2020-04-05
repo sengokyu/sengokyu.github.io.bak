@@ -1,23 +1,14 @@
 ---
-'created_at: ': '2016-03-02T10:09:55+09:00'
+date: '2016-03-02T10:09:55+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: NetBeans
-      versions: []
-    - name: PowerShell
-      versions: []
-    - name: chocolatey
-      versions: []
-  state: 0
-title: "\u3010\u30C8\u30E9\u30D6\u30EB\u3011NetBeans\u306E\u30A4\u30F3\u30B9\u30C8\
-  \u30FC\u30E9\u304C\u4F5C\u6210\u3059\u308B\u4E0D\u6B63\u306A\u30EC\u30B8\u30B9\u30C8\
-  \u30EA\u5024\u306E\u305F\u3081\u3001chocolatey\u306E\u30A2\u30F3\u30A4\u30F3\u30B9\
-  \u30C8\u30FC\u30EB\u64CD\u4F5C\u304C\u5931\u6557\u3059\u308B"
-'updated_at: ': '2016-03-02T10:09:55+09:00'
+published: true
+qiita_article_id: 542e8ec6bf803e6a4037
+tags:
+- NetBeans
+- PowerShell
+- chocolatey
+title: 【トラブル】NetBeansのインストーラが作成する不正なレジストリ値のため、chocolateyのアンインストール操作が失敗する
+updated: '2016-03-02T10:09:55+09:00'
 
 ---
 # 現象  

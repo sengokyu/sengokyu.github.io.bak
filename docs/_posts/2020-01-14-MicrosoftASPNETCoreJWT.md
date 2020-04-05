@@ -1,22 +1,14 @@
 ---
-'created_at: ': '2020-01-14T10:34:18+09:00'
+date: '2020-01-14T10:34:18+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: C#
-      versions: []
-    - name: JWT
-      versions: []
-    - name: ASP.NET_Core
-      versions: []
-  state: 0
-title: "[Microsoft] ASP.NET Core\u3067JWT\u8A8D\u8A3C\u3059\u308B\u305D\u3053\u305D\
-  \u3053\u30B7\u30F3\u30D7\u30EB\u306A\u30B5\u30F3\u30D7\u30EB\uFF08\u7D71\u5408\u30C6\
-  \u30B9\u30C8\u4ED8\u304D\uFF09"
-'updated_at: ': '2020-01-15T15:21:49+09:00'
+published: true
+qiita_article_id: 6b54ad52e86de1d0e7b6
+tags:
+- C#
+- JWT
+- ASP.NET_Core
+title: '[Microsoft] ASP.NET CoreでJWT認証するそこそこシンプルなサンプル（統合テスト付き）'
+updated: '2020-01-15T15:21:49+09:00'
 
 ---
 # これはなに？  

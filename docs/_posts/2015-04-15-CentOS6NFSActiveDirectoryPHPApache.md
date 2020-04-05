@@ -1,18 +1,12 @@
 ---
-'created_at: ': '2015-04-15T17:47:02+09:00'
+date: '2015-04-15T17:47:02+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: CentOS
-      versions: []
-  state: 0
-title: "\u500B\u4EBA\u7684CentOS6\u30BB\u30C3\u30C8\u30A2\u30C3\u30D7\u8A18\u9332\uFF08\
-  NFS\u30AF\u30E9\u30A4\u30A2\u30F3\u30C8\u3001ActiveDirectory\u9023\u643A\u3001PHP\u3001\
-  Apache\uFF09"
-'updated_at: ': '2015-04-15T19:03:32+09:00'
+published: true
+qiita_article_id: b730c56e9a8be8d21a15
+tags:
+- CentOS
+title: 個人的CentOS6セットアップ記録（NFSクライアント、ActiveDirectory連携、PHP、Apache）
+updated: '2015-04-15T19:03:32+09:00'
 
 ---
 社内での開発用にCentOS 6.6を新たにセットアップした際の個人的な記録です。つまりチラ裏ってやつです。  

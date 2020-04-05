@@ -1,24 +1,16 @@
 ---
-'created_at: ': '2017-07-20T20:06:03+09:00'
+date: '2017-07-20T20:06:03+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: PHP
-      versions: []
-    - name: JavaScript
-      versions: []
-    - name: Silex
-      versions: []
-    - name: Angular
-      versions: []
-    - name: Angular2
-      versions: []
-  state: 0
-title: "[PHP][Silex][Angular] Silex 2 + Angular \u30B3\u30C8\u59CB\u3081"
-'updated_at: ': '2017-07-21T09:17:22+09:00'
+published: true
+qiita_article_id: 14d89a2649e50afbc115
+tags:
+- PHP
+- JavaScript
+- Silex
+- Angular
+- Angular2
+title: '[PHP][Silex][Angular] Silex 2 + Angular コト始め'
+updated: '2017-07-21T09:17:22+09:00'
 
 ---
 まずは環境を整えるところまでです。  

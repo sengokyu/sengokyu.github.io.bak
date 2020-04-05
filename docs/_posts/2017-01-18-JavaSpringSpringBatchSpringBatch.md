@@ -1,26 +1,16 @@
 ---
-'created_at: ': '2017-01-18T09:45:03+09:00'
+date: '2017-01-18T09:45:03+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Java
-      versions: []
-    - name: spring
-      versions: []
-    - name: spring-boot
-      versions: []
-    - name: spring-batch
-      versions: []
-    - name: spring-data-jpa
-      versions: []
-  state: 0
-title: "[Java][Spring][Spring Batch] Spring Batch\u306E\u30E1\u30BF\u30C7\u30FC\u30BF\
-  \u30C6\u30FC\u30D6\u30EB\u3092\u4F5C\u3089\u305B\u306A\u3044/\u4F7F\u308F\u305B\u306A\
-  \u3044"
-'updated_at: ': '2017-01-18T09:45:03+09:00'
+published: true
+qiita_article_id: 801c7b44cb38a635060e
+tags:
+- Java
+- spring
+- spring-boot
+- spring-batch
+- spring-data-jpa
+title: '[Java][Spring][Spring Batch] Spring Batchのメタデータテーブルを作らせない/使わせない'
+updated: '2017-01-18T09:45:03+09:00'
 
 ---
 # 前提  

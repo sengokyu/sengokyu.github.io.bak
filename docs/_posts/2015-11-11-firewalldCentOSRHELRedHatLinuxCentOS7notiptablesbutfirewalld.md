@@ -1,20 +1,14 @@
 ---
-'created_at: ': '2015-11-11T18:24:05+09:00'
+date: '2015-11-11T18:24:05+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: CentOS
-      versions: []
-    - name: firewalld
-      versions: []
-  state: 0
-title: "[firewalld][CentOS][RHEL][RedHat][Linux] \u30EC\u30F3\u30B5\u30D0(CentOS7)\u306E\
-  \u30D5\u30A1\u30A4\u30A2\u30A6\u30A9\u30FC\u30EB\u8A2D\u5B9A\u3002not iptables,\
-  \ but firewalld"
-'updated_at: ': '2016-08-09T09:10:50+09:00'
+published: true
+qiita_article_id: e5bba050ef1e0246463b
+tags:
+- CentOS
+- firewalld
+title: '[firewalld][CentOS][RHEL][RedHat][Linux] レンサバ(CentOS7)のファイアウォール設定。not iptables,
+  but firewalld'
+updated: '2016-08-09T09:10:50+09:00'
 
 ---
   

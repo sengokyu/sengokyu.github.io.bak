@@ -1,20 +1,14 @@
 ---
-'created_at: ': '2016-09-05T10:04:51+09:00'
+date: '2016-09-05T10:04:51+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: HTML
-      versions: []
-    - name: HTML5
-      versions: []
-    - name: html5j
-      versions: []
-  state: 0
-title: "[html5j] HTML5 CONFERENCE 2016\u53C2\u52A0\u8A18\u9332"
-'updated_at: ': '2016-09-08T18:15:02+09:00'
+published: true
+qiita_article_id: 975e676c9bbde5908829
+tags:
+- HTML
+- HTML5
+- html5j
+title: '[html5j] HTML5 CONFERENCE 2016参加記録'
+updated: '2016-09-08T18:15:02+09:00'
 
 ---
 2016年９月３日に、北千住にある東京電機大学で開かれた[HTML5 CONFERENCE 2016](http://events.html5j.org/conference/2016/9/)に参加してきました。  

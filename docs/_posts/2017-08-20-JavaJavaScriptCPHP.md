@@ -1,23 +1,15 @@
 ---
-'created_at: ': '2017-08-20T10:08:33+09:00'
+date: '2017-08-20T10:08:33+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Java
-      versions: []
-    - name: PHP
-      versions: []
-    - name: JavaScript
-      versions: []
-    - name: C#
-      versions: []
-  state: 0
-title: "[Java][JavaScript][C#][PHP] \u8A00\u8A9E\u5225\u30C6\u30B9\u30C8\u306E\u4F5C\
-  \u308A\u5FC3\u5730\u4E3B\u89B3\u7684\u6BD4\u8F03"
-'updated_at: ': '2017-08-28T16:20:57+09:00'
+published: true
+qiita_article_id: 2b1fee6a42468e1d2a8c
+tags:
+- Java
+- PHP
+- JavaScript
+- C#
+title: '[Java][JavaScript][C#][PHP] 言語別テストの作り心地主観的比較'
+updated: '2017-08-28T16:20:57+09:00'
 
 ---
 # 自己紹介  

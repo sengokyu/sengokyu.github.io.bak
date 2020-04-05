@@ -1,18 +1,13 @@
 ---
-'created_at: ': '2017-11-08T09:14:53+09:00'
+date: '2017-11-08T09:14:53+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Mac
-      versions: []
-    - name: macos
-      versions: []
-  state: 0
-title: "[Apple] macOS High Sierra\u79C1\u7684\u74B0\u5883\u8A2D\u5B9A\u8A18\u9332"
-'updated_at: ': '2017-11-08T09:15:18+09:00'
+published: true
+qiita_article_id: d86b57311a8e54ef7cb9
+tags:
+- Mac
+- macos
+title: '[Apple] macOS High Sierra私的環境設定記録'
+updated: '2017-11-08T09:15:18+09:00'
 
 ---
 久しぶりにMacを買いました。  

@@ -1,21 +1,14 @@
 ---
-'created_at: ': '2015-02-16T13:56:32+09:00'
+date: '2015-02-16T13:56:32+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Java
-      versions: []
-    - name: JavaEE
-      versions: []
-    - name: CDI
-      versions: []
-  state: 0
-title: "Arquillian+Glassfish Embedded Container\u3067\u306F\u3001ConversationScoped\u306A\
-  bean\u3092\u30A4\u30F3\u30B8\u30A7\u30AF\u30C8\u3067\u304D\u306A\u3044\uFF01\uFF1F"
-'updated_at: ': '2015-02-16T13:56:32+09:00'
+published: true
+qiita_article_id: bc85b5161de9839a865b
+tags:
+- Java
+- JavaEE
+- CDI
+title: Arquillian+Glassfish Embedded Containerでは、ConversationScopedなbeanをインジェクトできない！？
+updated: '2015-02-16T13:56:32+09:00'
 
 ---
 # 環境 #  

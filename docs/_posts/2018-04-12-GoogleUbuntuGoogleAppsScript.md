@@ -1,20 +1,14 @@
 ---
-'created_at: ': '2018-04-12T16:02:43+09:00'
+date: '2018-04-12T16:02:43+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Node.js
-      versions: []
-    - name: Ubuntu
-      versions: []
-    - name: GoogleAppsScript
-      versions: []
-  state: 0
-title: "[Google] Ubuntu\u3067\u59CB\u3081\u308BGoogle Apps Script\u958B\u767A"
-'updated_at: ': '2018-04-12T16:02:43+09:00'
+published: true
+qiita_article_id: e6013655b1e5f5dfb44c
+tags:
+- Node.js
+- Ubuntu
+- GoogleAppsScript
+title: '[Google] Ubuntuで始めるGoogle Apps Script開発'
+updated: '2018-04-12T16:02:43+09:00'
 
 ---
 # はじめに  

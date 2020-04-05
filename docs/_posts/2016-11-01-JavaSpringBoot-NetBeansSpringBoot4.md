@@ -1,21 +1,14 @@
 ---
-'created_at: ': '2016-11-01T11:14:05+09:00'
+date: '2016-11-01T11:14:05+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Java
-      versions: []
-    - name: NetBeans
-      versions: []
-    - name: spring-boot
-      versions: []
-  state: 0
-title: "[Java][Spring Boot] \u81EA\u52D5\u30C7\u30D7\u30ED\u30A4\u3059\u308B - NetBeans\u3067\
-  \u59CB\u3081\u308BSpring Boot (4)"
-'updated_at: ': '2016-11-01T11:14:05+09:00'
+published: true
+qiita_article_id: 3ccd4be817363590ae4c
+tags:
+- Java
+- NetBeans
+- spring-boot
+title: '[Java][Spring Boot] 自動デプロイする - NetBeansで始めるSpring Boot (4)'
+updated: '2016-11-01T11:14:05+09:00'
 
 ---
 NetBeansで始めるSpring Bootと題して、記事を３つ書きました。  

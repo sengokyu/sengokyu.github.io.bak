@@ -1,17 +1,12 @@
 ---
-'created_at: ': '2015-02-02T19:16:47+09:00'
+date: '2015-02-02T19:16:47+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: derby
-      versions: []
-  state: 0
-title: "[Java][Derby] Apache Derby\u30B3\u30DE\u30F3\u30C9\u30E9\u30A4\u30F3\u30E1\
-  \u30E2"
-'updated_at: ': '2016-08-19T17:28:56+09:00'
+published: true
+qiita_article_id: 27999db68108332be979
+tags:
+- derby
+title: '[Java][Derby] Apache Derbyコマンドラインメモ'
+updated: '2016-08-19T17:28:56+09:00'
 
 ---
 # 起動  

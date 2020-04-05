@@ -1,17 +1,12 @@
 ---
-'created_at: ': '2016-07-13T13:16:20+09:00'
+date: '2016-07-13T13:16:20+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Ubuntu
-      versions: []
-  state: 0
-title: "[Ubuntu][Linux]Ubuntu 16.04 Desktop\u79C1\u7684\u521D\u671F\u8A2D\u5B9A\u307E\
-  \u3068\u3081"
-'updated_at: ': '2016-10-03T20:34:49+09:00'
+published: true
+qiita_article_id: 856da873736d8103a8b6
+tags:
+- Ubuntu
+title: '[Ubuntu][Linux]Ubuntu 16.04 Desktop私的初期設定まとめ'
+updated: '2016-10-03T20:34:49+09:00'
 
 ---
 Ubuntu 16.04インストール後に行った設定をまとめました。  

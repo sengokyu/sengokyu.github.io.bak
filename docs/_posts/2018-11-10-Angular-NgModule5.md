@@ -1,20 +1,13 @@
 ---
-'created_at: ': '2018-11-10T12:34:40+09:00'
+date: '2018-11-10T12:34:40+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: TypeScript
-      versions: []
-    - name: Angular
-      versions: []
-  state: 0
-title: "[Angular] \u30A2\u30D7\u30EA\u30B1\u30FC\u30B7\u30E7\u30F3\u3092\u8907\u6570\
-  \u306E\u6A5F\u80FD\u30E2\u30B8\u30E5\u30FC\u30EB\u306B\u5206\u5272\u3059\u308B \
-  \ - @NgModule\u3068\u306F\u4F55\u304B (5)"
-'updated_at: ': '2019-10-17T16:22:19+09:00'
+published: true
+qiita_article_id: 1883e0bf2a1a17bf4810
+tags:
+- TypeScript
+- Angular
+title: '[Angular] アプリケーションを複数の機能モジュールに分割する  - @NgModuleとは何か (5)'
+updated: '2019-10-17T16:22:19+09:00'
 
 ---
 `@NgModule`とは何かを探るシリーズ第5回です。  

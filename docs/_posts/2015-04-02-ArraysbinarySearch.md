@@ -1,17 +1,12 @@
 ---
-'created_at: ': '2015-04-02T14:35:35+09:00'
+date: '2015-04-02T14:35:35+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Java
-      versions: []
-  state: 0
-title: "Arrays#binarySearch\u3092\u4F7F\u3046\u3068\u304D\u306B\u6CE8\u610F\u3057\u305F\
-  \u3044\u3053\u3068"
-'updated_at: ': '2015-04-02T14:35:35+09:00'
+published: true
+qiita_article_id: bbcacdbd082cffd5b886
+tags:
+- Java
+title: Arrays#binarySearchを使うときに注意したいこと
+updated: '2015-04-02T14:35:35+09:00'
 
 ---
 Java Collections Frameworkにある[Arrays#binarySearch](https://docs.oracle.com/javase/8/docs/api/java/util/Arrays.html) はこんな感じに使います。  

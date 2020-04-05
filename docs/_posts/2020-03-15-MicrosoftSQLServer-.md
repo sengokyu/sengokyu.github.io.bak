@@ -1,19 +1,13 @@
 ---
-'created_at: ': '2020-03-15T23:55:11+09:00'
+date: '2020-03-15T23:55:11+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Microsoft
-      versions: []
-    - name: SQLServer
-      versions: []
-  state: 0
-title: "[Microsoft] \u3046\u3061\u306ESQL Server\u304C\u306A\u306B\u304B\u304A\u304B\
-  \u3057\u3044 - \u30C7\u30C3\u30C9\u30ED\u30C3\u30AF\u7DE8"
-'updated_at: ': '2020-03-15T23:55:11+09:00'
+published: true
+qiita_article_id: 4d5484aab573d3b17b1f
+tags:
+- Microsoft
+- SQLServer
+title: '[Microsoft] うちのSQL Serverがなにかおかしい - デッドロック編'
+updated: '2020-03-15T23:55:11+09:00'
 
 ---
 「うちのSQL Server、なんかおかしくない？」  

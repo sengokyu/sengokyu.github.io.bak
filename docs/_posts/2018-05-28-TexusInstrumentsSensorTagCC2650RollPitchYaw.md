@@ -1,25 +1,16 @@
 ---
-'created_at: ': '2018-05-28T01:57:19+09:00'
+date: '2018-05-28T01:57:19+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Python
-      versions: []
-    - name: Mac
-      versions: []
-    - name: SensorTag
-      versions: []
-    - name: BLE
-      versions: []
-    - name: IoT
-      versions: []
-  state: 0
-title: "Texus Instruments SensorTag CC2650\u306ERoll/Pitch/Yaw\u3092\u8A08\u7B97\u3059\
-  \u308B"
-'updated_at: ': '2018-05-28T23:54:31+09:00'
+published: true
+qiita_article_id: 05f4f7eb2281bb4cd647
+tags:
+- Python
+- Mac
+- SensorTag
+- BLE
+- IoT
+title: Texus Instruments SensorTag CC2650のRoll/Pitch/Yawを計算する
+updated: '2018-05-28T23:54:31+09:00'
 
 ---
 # はじめに  

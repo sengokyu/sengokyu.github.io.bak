@@ -1,23 +1,15 @@
 ---
-'created_at: ': '2018-10-06T09:35:47+09:00'
+date: '2018-10-06T09:35:47+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Node.js
-      versions: []
-    - name: macos
-      versions: []
-    - name: VSCode
-      versions: []
-    - name: AzureFunctions
-      versions: []
-  state: 0
-title: "[Azure] Visual Studio Code\u3067Azure Functions\u306E\u30C7\u30D0\u30C3\u30B0\
-  \u304C\u3067\u304D\u306A\u3044\u3068\u304D"
-'updated_at: ': '2018-10-06T09:36:25+09:00'
+published: true
+qiita_article_id: 1cccb8b868d8d0ab3cf4
+tags:
+- Node.js
+- macos
+- VSCode
+- AzureFunctions
+title: '[Azure] Visual Studio CodeでAzure Functionsのデバッグができないとき'
+updated: '2018-10-06T09:36:25+09:00'
 
 ---
 下記のURLにある手順に従っても、うまくいかないんです。  

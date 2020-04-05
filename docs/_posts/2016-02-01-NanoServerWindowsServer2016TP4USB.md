@@ -1,21 +1,14 @@
 ---
-'created_at: ': '2016-02-01T14:56:38+09:00'
+date: '2016-02-01T14:56:38+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Hyper-V
-      versions: []
-    - name: WindowsServer
-      versions: []
-    - name: nanoserver
-      versions: []
-  state: 0
-title: "NanoServer (Windows Server 2016 TP4)\u3092USB\u30E1\u30E2\u30EA\u306B\u30A4\
-  \u30F3\u30B9\u30C8\u30FC\u30EB\u3059\u308B"
-'updated_at: ': '2016-02-02T10:46:24+09:00'
+published: true
+qiita_article_id: 900769eb54cfbe3272ff
+tags:
+- Hyper-V
+- WindowsServer
+- nanoserver
+title: NanoServer (Windows Server 2016 TP4)をUSBメモリにインストールする
+updated: '2016-02-02T10:46:24+09:00'
 
 ---
 # 概要  

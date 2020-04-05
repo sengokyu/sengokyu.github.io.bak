@@ -1,17 +1,12 @@
 ---
-'created_at: ': '2019-10-23T02:07:33+09:00'
+date: '2019-10-23T02:07:33+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Angular
-      versions: []
-  state: 0
-title: "[Angular] \u753B\u9762\u3092\u5F15\u3063\u5F35\u3063\u3066\u30EA\u30ED\u30FC\
-  \u30C9 (pull to refresh)"
-'updated_at: ': '2019-10-23T11:21:22+09:00'
+published: true
+qiita_article_id: 8a0f7df9f1ed903ffd63
+tags:
+- Angular
+title: '[Angular] 画面を引っ張ってリロード (pull to refresh)'
+updated: '2019-10-23T11:21:22+09:00'
 
 ---
 # これはなに？  

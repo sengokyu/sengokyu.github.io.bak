@@ -1,19 +1,13 @@
 ---
-'created_at: ': '2016-06-24T15:01:18+09:00'
+date: '2016-06-24T15:01:18+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: VB.Net
-      versions: []
-    - name: VisualStudio
-      versions: []
-  state: 0
-title: "[VB.NET][Visual Studio 2015]async\u304C\u4ED8\u3044\u3066\u3044\u308B\u975E\
-  \u540C\u671F\u30E1\u30BD\u30C3\u30C9\u3092\u30C6\u30B9\u30C8\u3059\u308B"
-'updated_at: ': '2016-06-24T15:01:18+09:00'
+published: true
+qiita_article_id: 5f97edb78d522e37c04b
+tags:
+- VB.Net
+- VisualStudio
+title: '[VB.NET][Visual Studio 2015]asyncが付いている非同期メソッドをテストする'
+updated: '2016-06-24T15:01:18+09:00'
 
 ---
 `async`が付いている非同期メソッドをテストする話です。  

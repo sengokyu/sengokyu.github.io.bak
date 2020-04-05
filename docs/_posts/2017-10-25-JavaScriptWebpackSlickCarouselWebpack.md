@@ -1,21 +1,14 @@
 ---
-'created_at: ': '2017-10-25T14:46:38+09:00'
+date: '2017-10-25T14:46:38+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: JavaScript
-      versions: []
-    - name: Node.js
-      versions: []
-    - name: webpack
-      versions: []
-  state: 0
-title: "[JavaScript] Webpack\u3068\u306F\u306A\u3093\u305E\u3084\u3002\u305D\u3057\
-  \u3066\u3001Slick Carousel\u3092Webpack\u3067\u4F7F\u3046"
-'updated_at: ': '2017-10-25T14:46:38+09:00'
+published: true
+qiita_article_id: 88f8a461826ec2e6c6c6
+tags:
+- JavaScript
+- Node.js
+- webpack
+title: '[JavaScript] Webpackとはなんぞや。そして、Slick CarouselをWebpackで使う'
+updated: '2017-10-25T14:46:38+09:00'
 
 ---
 # ストーリー  

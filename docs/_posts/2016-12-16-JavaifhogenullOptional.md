@@ -1,19 +1,13 @@
 ---
-'created_at: ': '2016-12-16T18:34:13+09:00'
+date: '2016-12-16T18:34:13+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Java
-      versions: []
-    - name: "null\u5B89\u5168"
-      versions: []
-  state: 0
-title: "[Java] if(hoge != null) {...}\u306E\u4EE3\u308F\u308A\u306BOptional\u3092\u4F7F\
-  \u3046"
-'updated_at: ': '2016-12-16T18:34:13+09:00'
+published: true
+qiita_article_id: 497d9dd809f6159f8e11
+tags:
+- Java
+- null安全
+title: '[Java] if(hoge != null) {...}の代わりにOptionalを使う'
+updated: '2016-12-16T18:34:13+09:00'
 
 ---
 いまいちOptionalの使いドコロがわかっていなかったのですが、こういうことだったのかなぁと理解しました。  

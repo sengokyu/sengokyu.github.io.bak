@@ -1,23 +1,15 @@
 ---
-'created_at: ': '2017-10-13T15:11:12+09:00'
+date: '2017-10-13T15:11:12+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: CentOS
-      versions: []
-    - name: Azure
-      versions: []
-    - name: postfix
-      versions: []
-    - name: SendGrid
-      versions: []
-  state: 0
-title: "[Azure][CentOS][Postfix][SendGrid] Azure\u306B\u501F\u308A\u305FCentOS\u304B\
-  \u3089\u30E1\u30FC\u30EB\u9001\u4FE1\u3057\u3066\u307F\u308B"
-'updated_at: ': '2017-10-16T14:16:13+09:00'
+published: true
+qiita_article_id: 2e55e1a5f6f3491c4c67
+tags:
+- CentOS
+- Azure
+- postfix
+- SendGrid
+title: '[Azure][CentOS][Postfix][SendGrid] Azureに借りたCentOSからメール送信してみる'
+updated: '2017-10-16T14:16:13+09:00'
 
 ---
 # ストーリー  

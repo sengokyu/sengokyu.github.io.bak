@@ -1,19 +1,13 @@
 ---
-'created_at: ': '2018-06-28T11:13:25+09:00'
+date: '2018-06-28T11:13:25+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: "\u30DD\u30A8\u30E0"
-      versions: []
-    - name: Angular
-      versions: []
-  state: 0
-title: "[Angular] Angular\u30D5\u30EC\u30F3\u30C9\u30EA\u30FC\u306A\u7BA1\u7406\u753B\
-  \u9762(Admin Dashboard)\u30D5\u30EC\u30FC\u30E0\u30EF\u30FC\u30AF"
-'updated_at: ': '2018-06-28T15:23:43+09:00'
+published: true
+qiita_article_id: 36d1a38ed19a42eb4f75
+tags:
+- ポエム
+- Angular
+title: '[Angular] Angularフレンドリーな管理画面(Admin Dashboard)フレームワーク'
+updated: '2018-06-28T15:23:43+09:00'
 
 ---
 Angularでいい感じに使えそうな管理画面フレームワークを探してみました。  

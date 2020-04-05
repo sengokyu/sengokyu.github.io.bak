@@ -1,21 +1,14 @@
 ---
-'created_at: ': '2016-06-16T09:45:06+09:00'
+date: '2016-06-16T09:45:06+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: vmware
-      versions: []
-    - name: "\u4EEE\u60F3\u5316"
-      versions: []
-    - name: P2V
-      versions: []
-  state: 0
-title: "VMware vCenter Converter\u3092\u4F7F\u7528\u3057\u305FP2V\u306B\u5931\u6557\
-  \u3059\u308B\u3068\u304D\u306B\u30C1\u30A7\u30C3\u30AF\u3059\u308B\u3053\u3068"
-'updated_at: ': '2016-06-16T09:45:06+09:00'
+published: true
+qiita_article_id: a080345414f4bdf98392
+tags:
+- vmware
+- 仮想化
+- P2V
+title: VMware vCenter Converterを使用したP2Vに失敗するときにチェックすること
+updated: '2016-06-16T09:45:06+09:00'
 
 ---
 # 概要  

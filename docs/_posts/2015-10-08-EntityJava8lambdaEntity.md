@@ -1,24 +1,15 @@
 ---
-'created_at: ': '2015-10-08T18:02:34+09:00'
+date: '2015-10-08T18:02:34+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Java
-      versions: []
-    - name: jpa
-      versions: []
-    - name: glassfish
-      versions: []
-    - name: EclipseLink
-      versions: []
-  state: 0
-title: "[\u30CF\u30DE\u30EA\u30CD\u30BF]Entity\u30AF\u30E9\u30B9\u306E\u4E2D\u3067\
-  Java 8 lambda\u5F0F\u3092\u4F7F\u7528\u3059\u308B\u3068\u3001Entity\u30AF\u30E9\u30B9\
-  \u304C\u8AAD\u307F\u8FBC\u307E\u308C\u306A\u3044"
-'updated_at: ': '2015-10-08T18:17:42+09:00'
+published: true
+qiita_article_id: 42b7e9f3278115d8d4ad
+tags:
+- Java
+- jpa
+- glassfish
+- EclipseLink
+title: '[ハマリネタ]Entityクラスの中でJava 8 lambda式を使用すると、Entityクラスが読み込まれない'
+updated: '2015-10-08T18:17:42+09:00'
 
 ---
 # 背景  

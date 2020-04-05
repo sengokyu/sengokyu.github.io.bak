@@ -1,20 +1,13 @@
 ---
-'created_at: ': '2018-12-26T10:19:00+09:00'
+date: '2018-12-26T10:19:00+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Ubuntu
-      versions: []
-    - name: oVirt
-      versions: []
-  state: 0
-title: "[oVirt] Ubuntu\u3067\u30B2\u30B9\u30C8\u30A8\u30FC\u30B8\u30A7\u30F3\u30C8\
-  \ ovirt-guest-agent \u304C\u52D5\u304B\u306A\u3044\u3068\u304D\u306E\u89E3\u6C7A\
-  \u7B56"
-'updated_at: ': '2018-12-26T10:19:00+09:00'
+published: true
+qiita_article_id: a6a65c7a2802225ad08d
+tags:
+- Ubuntu
+- oVirt
+title: '[oVirt] Ubuntuでゲストエージェント ovirt-guest-agent が動かないときの解決策'
+updated: '2018-12-26T10:19:00+09:00'
 
 ---
 # 前フリ  

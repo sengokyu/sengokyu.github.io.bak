@@ -1,22 +1,15 @@
 ---
-'created_at: ': '2017-03-30T10:46:56+09:00'
+date: '2017-03-30T10:46:56+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Windows
-      versions: []
-    - name: Microsoft
-      versions: []
-    - name: ActiveDirectory
-      versions: []
-  state: 0
-title: "[Microsoft][Windows] Active Directory\u30C9\u30E1\u30A4\u30F3\u30B3\u30F3\u30C8\
-  \u30ED\u30FC\u30E9\u79FB\u884C\u4F5C\u696D\u8A18\u9332(Windows Server 2003\u304B\
-  \u30892012 R2\u3078\uFF09"
-'updated_at: ': '2017-03-30T10:46:56+09:00'
+published: true
+qiita_article_id: f5993ac90d1d015106a2
+tags:
+- Windows
+- Microsoft
+- ActiveDirectory
+title: '[Microsoft][Windows] Active Directoryドメインコントローラ移行作業記録(Windows Server 2003から2012
+  R2へ）'
+updated: '2017-03-30T10:46:56+09:00'
 
 ---
 Windows Server 2003で動いていたActive DirectoryドメインコントローラをWindows Server 2012R2へ移行した作業の記録です。  

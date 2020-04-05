@@ -1,23 +1,15 @@
 ---
-'created_at: ': '2020-03-26T22:59:50+09:00'
+date: '2020-03-26T22:59:50+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Windows
-      versions: []
-    - name: .NET
-      versions: []
-    - name: .NETFramework
-      versions: []
-    - name: .NETCore
-      versions: []
-  state: 0
-title: "[Microsoft] Windows\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\u5411\u3051\u696D\u52D9\
-  \u30A2\u30D7\u30EA\u958B\u767A\u306F.NET\u3068.NET Framework\u3069\u3063\u3061\uFF1F"
-'updated_at: ': '2020-03-26T22:59:50+09:00'
+published: true
+qiita_article_id: a93d0be65483479f1253
+tags:
+- Windows
+- .NET
+- .NETFramework
+- .NETCore
+title: '[Microsoft] Windowsデスクトップ向け業務アプリ開発は.NETと.NET Frameworkどっち？'
+updated: '2020-03-31T09:26:32+09:00'
 
 ---
 [Windowsデスクトップ向け業務アプリ開発には何を採用すべきか？](2018-09-22-MicrosoftWindows.md) を書いていた時点ではわからなかったことがだいぶはっきりしましたので、あらためてまとめてみます。  
@@ -63,7 +55,7 @@ WPF XAMLデザイナーは、Visual Studio 2019 16.3から使用できます。[
   
 .NET Frameworkの系譜は終わり、.NET Coreベースの.NET 5になりますが、.NET FrameworkはバンドルされているOSに準じてサポートされ続けます。  
   
-Windows 10のサポート期間とバンドルされている.NET Fraameworkのバージョンを[Windows ライフサイクルのファクト シート](https://support.microsoft.com/ja-jp/help/13853/windows-lifecycle-fact-sheet)と[.NET Framework versions and dependencies](https://docs.microsoft.com/en-us/dotnet/framework/migration-guide/versions-and-dependencies)から引用します。  
+Windows 10のサポート期間とバンドルされている.NET Frameworkのバージョンを[Windows ライフサイクルのファクト シート](https://support.microsoft.com/ja-jp/help/13853/windows-lifecycle-fact-sheet)と[.NET Framework versions and dependencies](https://docs.microsoft.com/en-us/dotnet/framework/migration-guide/versions-and-dependencies)から引用します。  
   
 2004以降は未リリースです。  
   
@@ -101,7 +93,7 @@ Windows 10のサポート期間とバンドルされている.NET Fraameworkの�
   
   
   
-# .NETと.NET Fraemeworkの比較  
+# .NETと.NET Frameworkの比較  
   
 .NET Frameworkにあって.NETにない機能（WCFとか）は置いておいて、開発・運用にフォーカスして比較表めいたものを作ってみます。  
   

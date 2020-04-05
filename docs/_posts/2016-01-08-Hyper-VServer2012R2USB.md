@@ -1,21 +1,14 @@
 ---
-'created_at: ': '2016-01-08T15:26:31+09:00'
+date: '2016-01-08T15:26:31+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Windows
-      versions: []
-    - name: Microsoft
-      versions: []
-    - name: Hyper-V
-      versions: []
-  state: 0
-title: "Hyper-V Server 2012 R2\u3092USB\u30E1\u30E2\u30EA\u306B\u30A4\u30F3\u30B9\u30C8\
-  \u30FC\u30EB\u3059\u308B"
-'updated_at: ': '2016-01-20T09:32:30+09:00'
+published: true
+qiita_article_id: 1e4877c10f718bca8c46
+tags:
+- Windows
+- Microsoft
+- Hyper-V
+title: Hyper-V Server 2012 R2をUSBメモリにインストールする
+updated: '2016-01-20T09:32:30+09:00'
 
 ---
 # 概要  

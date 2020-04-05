@@ -1,22 +1,15 @@
 ---
-'created_at: ': '2018-08-15T12:37:00+09:00'
+date: '2018-08-15T12:37:00+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Android
-      versions: []
-    - name: Ubuntu
-      versions: []
-    - name: React
-      versions: []
-    - name: reactnative
-      versions: []
-  state: 0
-title: "[Android] Ubuntu\u3067\u59CB\u3081\u308BReact Native"
-'updated_at: ': '2018-08-22T16:14:06+09:00'
+published: true
+qiita_article_id: 5555fcc10980b7780714
+tags:
+- Android
+- Ubuntu
+- React
+- reactnative
+title: '[Android] Ubuntuで始めるReact Native'
+updated: '2018-08-22T16:14:06+09:00'
 
 ---
 # これはなに？  

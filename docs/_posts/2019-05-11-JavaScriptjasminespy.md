@@ -1,25 +1,16 @@
 ---
-'created_at: ': '2019-05-11T16:53:45+09:00'
+date: '2019-05-11T16:53:45+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: JavaScript
-      versions: []
-    - name: test
-      versions: []
-    - name: "\u30C6\u30B9\u30C8"
-      versions: []
-    - name: jasmine
-      versions: []
-    - name: TypeScript
-      versions: []
-  state: 0
-title: "[JavaScript] jasmine spy\uFF08\u3044\u308F\u3086\u308B\u30C6\u30B9\u30C8\u30C0\
-  \u30D6\u30EB\u3042\u308B\u3044\u306F\u30E2\u30C3\u30AF\uFF09 \u30EC\u30B7\u30D4\u96C6"
-'updated_at: ': '2019-05-11T16:53:45+09:00'
+published: true
+qiita_article_id: c4a04995aae43d953961
+tags:
+- JavaScript
+- test
+- テスト
+- jasmine
+- TypeScript
+title: '[JavaScript] jasmine spy（いわゆるテストダブルあるいはモック） レシピ集'
+updated: '2019-05-11T16:53:45+09:00'
 
 ---
 あるオブジェクト/関数が、また別のオブジェクト/関数に依存していることは普通にあります。  

@@ -1,24 +1,15 @@
 ---
-'created_at: ': '2017-08-04T11:15:20+09:00'
+date: '2017-08-04T11:15:20+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Java
-      versions: []
-    - name: Maven
-      versions: []
-    - name: Microsoft
-      versions: []
-    - name: SQLServer
-      versions: []
-  state: 0
-title: "[Java][Microsoft] SQL Server\u306EJDBC\u30C9\u30E9\u30A4\u30D0\u3092\u3072\
-  \u3068\u3064\u306Ejar\u306B\u542B\u3081\u308B\u3068\u304D\u6CE8\u610F\u3059\u308B\
-  \u3079\u304D\u3053\u3068"
-'updated_at: ': '2017-08-04T11:15:20+09:00'
+published: true
+qiita_article_id: c295bfb56d38773fda1c
+tags:
+- Java
+- Maven
+- Microsoft
+- SQLServer
+title: '[Java][Microsoft] SQL ServerのJDBCドライバをひとつのjarに含めるとき注意するべきこと'
+updated: '2017-08-04T11:15:20+09:00'
 
 ---
 # 前段  

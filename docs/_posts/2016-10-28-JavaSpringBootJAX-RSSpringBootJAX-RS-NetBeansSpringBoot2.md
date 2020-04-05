@@ -1,23 +1,16 @@
 ---
-'created_at: ': '2016-10-28T18:03:33+09:00'
+date: '2016-10-28T18:03:33+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Java
-      versions: []
-    - name: JAX-RS
-      versions: []
-    - name: jersey
-      versions: []
-    - name: spring-boot
-      versions: []
-  state: 0
-title: "[Java][Spring Boot][JAX-RS] Spring Boot\u3067JAX-RS\u3092\u4F7F\u3046 - NetBeans\u3067\
-  \u59CB\u3081\u308BSpring Boot (2)"
-'updated_at: ': '2016-10-28T18:03:33+09:00'
+published: true
+qiita_article_id: 891eb6ae0bdb5be1dfa5
+tags:
+- Java
+- JAX-RS
+- jersey
+- spring-boot
+title: '[Java][Spring Boot][JAX-RS] Spring BootでJAX-RSを使う - NetBeansで始めるSpring Boot
+  (2)'
+updated: '2016-10-28T18:03:33+09:00'
 
 ---
 [Hello World!を作成しました](http://qiita.com/sengoku/items/735cb9639fd8e0686081)。  

@@ -1,25 +1,16 @@
 ---
-'created_at: ': '2016-06-29T11:38:15+09:00'
+date: '2016-06-29T11:38:15+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: PHP
-      versions: []
-    - name: slim
-      versions: []
-    - name: Silex
-      versions: []
-    - name: Phalcon
-      versions: []
-    - name: lumen
-      versions: []
-  state: 0
-title: "[Lumen][Slim][Silex][Wave][Phalcon] PHP\u30DE\u30A4\u30AF\u30ED\u30D5\u30EC\
-  \u30FC\u30E0\u30EF\u30FC\u30AF\u6BD4\u8F03"
-'updated_at: ': '2016-07-07T12:28:17+09:00'
+published: true
+qiita_article_id: bcd8a4827ac13bac23a5
+tags:
+- PHP
+- slim
+- Silex
+- Phalcon
+- lumen
+title: '[Lumen][Slim][Silex][Wave][Phalcon] PHPマイクロフレームワーク比較'
+updated: '2016-07-07T12:28:17+09:00'
 
 ---
 PerlのAmon2みたいな、手軽なフレームワークが欲しくて探してみました。  

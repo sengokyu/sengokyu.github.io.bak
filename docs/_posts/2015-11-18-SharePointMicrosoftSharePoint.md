@@ -1,19 +1,13 @@
 ---
-'created_at: ': '2015-11-18T10:36:54+09:00'
+date: '2015-11-18T10:36:54+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Microsoft
-      versions: []
-    - name: SharePoint
-      versions: []
-  state: 0
-title: "[SharePoint] Microsoft SharePoint\u306B\u95A2\u3059\u308B\u60C5\u5831\u6E90\
-  \u30EA\u30F3\u30AF\u96C6"
-'updated_at: ': '2016-08-09T09:09:32+09:00'
+published: true
+qiita_article_id: 6cee9c2b4f3b9e57d879
+tags:
+- Microsoft
+- SharePoint
+title: '[SharePoint] Microsoft SharePointに関する情報源リンク集'
+updated: '2016-08-09T09:09:32+09:00'
 
 ---
 QiitaにSharePointの情報があまりにも少ないので、まずは簡単なリンク集を貼ります。  

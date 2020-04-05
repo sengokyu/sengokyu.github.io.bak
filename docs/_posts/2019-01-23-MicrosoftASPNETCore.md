@@ -1,21 +1,14 @@
 ---
-'created_at: ': '2019-01-23T16:28:37+09:00'
+date: '2019-01-23T16:28:37+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: C#
-      versions: []
-    - name: ASP.NET
-      versions: []
-    - name: ASP.NET_Core
-      versions: []
-  state: 0
-title: "[Microsoft] ASP.NET Core \u30B5\u30FC\u30D0\u304C\u8D77\u52D5\u3059\u308B\u307E\
-  \u3067\u3092\u8FFD\u3044\u304B\u3051\u3066\u307F\u308B"
-'updated_at: ': '2019-05-17T13:15:26+09:00'
+published: true
+qiita_article_id: 9ae4bfd43f6660abb935
+tags:
+- C#
+- ASP.NET
+- ASP.NET_Core
+title: '[Microsoft] ASP.NET Core サーバが起動するまでを追いかけてみる'
+updated: '2019-05-17T13:15:26+09:00'
 
 ---
 ASP.NET Coreを理解するために、プログラムが起動するまでを追ってみます。  

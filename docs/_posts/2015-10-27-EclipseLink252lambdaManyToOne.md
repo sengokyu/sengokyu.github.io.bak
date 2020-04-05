@@ -1,23 +1,15 @@
 ---
-'created_at: ': '2015-10-27T14:22:36+09:00'
+date: '2015-10-27T14:22:36+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Java
-      versions: []
-    - name: jpa
-      versions: []
-    - name: JavaEE
-      versions: []
-    - name: EclipseLink
-      versions: []
-  state: 0
-title: "[\u30D0\u30B0(?)] EclipseLink 2.5.2\u306F\u3001lambda\u306E\u4E2D\u3067ManyToOne\u30EA\
-  \u30EC\u30FC\u30B7\u30E7\u30F3\u30B7\u30C3\u30D7\u304C\u52D5\u304B\u306A\u3044"
-'updated_at: ': '2015-10-28T09:29:19+09:00'
+published: true
+qiita_article_id: c507fa2b51ef676a367f
+tags:
+- Java
+- jpa
+- JavaEE
+- EclipseLink
+title: '[バグ(?)] EclipseLink 2.5.2は、lambdaの中でManyToOneリレーションシップが動かない'
+updated: '2015-10-28T09:29:19+09:00'
 
 ---
 # 前提  

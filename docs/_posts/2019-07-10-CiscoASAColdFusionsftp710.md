@@ -1,17 +1,12 @@
 ---
-'created_at: ': '2019-07-10T11:15:33+09:00'
+date: '2019-07-10T11:15:33+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: coldfusion
-      versions: []
-  state: 0
-title: "Cisco ASA/ColdFusion/sftp \u30C8\u30E9\u30D6\u30EB\u30B7\u30E5\u30FC\u30C8\
-  \u30E1\u30E2 7/10\u7248"
-'updated_at: ': '2019-07-10T11:15:33+09:00'
+published: true
+qiita_article_id: 9bfd810a93c7bb043198
+tags:
+- coldfusion
+title: Cisco ASA/ColdFusion/sftp トラブルシュートメモ 7/10版
+updated: '2019-07-10T11:15:33+09:00'
 
 ---
 ただのメモです。  

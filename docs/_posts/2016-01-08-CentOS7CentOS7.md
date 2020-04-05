@@ -1,22 +1,14 @@
 ---
-'created_at: ': '2016-01-08T12:21:00+09:00'
+date: '2016-01-08T12:21:00+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Linux
-      versions: []
-    - name: CentOS
-      versions: []
-    - name: centos7
-      versions: []
-  state: 0
-title: "\u3010CentOS 7\u3011CentOS 7\u3092\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\u3068\
-  \u3057\u3066\u4F7F\u3046\u305F\u3081\u306E\u79C1\u7684\u521D\u671F\u8A2D\u5B9A\u307E\
-  \u3068\u3081"
-'updated_at: ': '2016-07-20T09:33:08+09:00'
+published: true
+qiita_article_id: db7cd02584f1835099d6
+tags:
+- Linux
+- CentOS
+- centos7
+title: 【CentOS 7】CentOS 7をデスクトップとして使うための私的初期設定まとめ
+updated: '2016-07-20T09:33:08+09:00'
 
 ---
 Windowsが息苦しくなってきたのでCentOS 7をデスクトップとして使うことにしました。  

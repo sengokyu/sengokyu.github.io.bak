@@ -1,20 +1,13 @@
 ---
-'created_at: ': '2019-12-28T09:37:36+09:00'
+date: '2019-12-28T09:37:36+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Windows
-      versions: []
-    - name: Windows10
-      versions: []
-  state: 0
-title: "[Microsoft] \u6D88\u3057\u3066\u3057\u307E\u3063\u305F Microsoft Store \u30A2\
-  \u30D7\u30EA\u3092\u5FA9\u6D3B\uFF08\u518D\u30A4\u30F3\u30B9\u30C8\u30FC\u30EB\uFF09\
-  \u3059\u308B\u65B9\u6CD5"
-'updated_at: ': '2019-12-28T09:37:36+09:00'
+published: true
+qiita_article_id: 49ee1a35b88b65936d90
+tags:
+- Windows
+- Windows10
+title: '[Microsoft] 消してしまった Microsoft Store アプリを復活（再インストール）する方法'
+updated: '2019-12-28T09:37:36+09:00'
 
 ---
 # これはなに？  

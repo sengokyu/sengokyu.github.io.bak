@@ -1,19 +1,12 @@
 ---
-'created_at: ': '2015-10-14T11:25:59+09:00'
+date: '2015-10-14T11:25:59+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Angular
-      versions: []
-  state: 0
-title: "\u30C6\u30AD\u30B9\u30C8\u5165\u529B\u3092\u81EA\u52D5\u3067\u534A\u89D2\u30AB\
-  \u30CA\u2192\u5168\u89D2\u30AB\u30CA\u3001\u5168\u89D2\u82F1\u6570\u2192\u534A\u89D2\
-  \u82F1\u6570\u306B\u3059\u308Bphp\u306Emb_convert_kana\u3063\u307D\u3044AngularJS\u30C7\
-  \u30A3\u30EC\u30AF\u30C6\u30A3\u30D6\u3010\u03B21\u3011"
-'updated_at: ': '2016-12-12T19:52:21+09:00'
+published: true
+qiita_article_id: 9686e0aa482faff49edb
+tags:
+- Angular
+title: テキスト入力を自動で半角カナ→全角カナ、全角英数→半角英数にするphpのmb_convert_kanaっぽいAngularJSディレクティブ【β1】
+updated: '2016-12-12T19:52:21+09:00'
 
 ---
 # 概要  

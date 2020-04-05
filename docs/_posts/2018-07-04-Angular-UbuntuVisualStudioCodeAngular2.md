@@ -1,25 +1,16 @@
 ---
-'created_at: ': '2018-07-04T09:33:22+09:00'
+date: '2018-07-04T09:33:22+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Ubuntu
-      versions: []
-    - name: TypeScript
-      versions: []
-    - name: Angular
-      versions: []
-    - name: "\u5199\u7D4C"
-      versions: []
-    - name: VisualStudioCode
-      versions: []
-  state: 0
-title: "[Angular] \u30A2\u30D7\u30EA\u306E\u65B0\u898F\u4F5C\u6210 - Ubuntu\u3068\
-  Visual Studio Code\u3067\u59CB\u3081\u308BAngular (2)"
-'updated_at: ': '2018-07-11T18:47:11+09:00'
+published: true
+qiita_article_id: 919b3759f9f2419c4bb9
+tags:
+- Ubuntu
+- TypeScript
+- Angular
+- 写経
+- VisualStudioCode
+title: '[Angular] アプリの新規作成 - UbuntuとVisual Studio Codeで始めるAngular (2)'
+updated: '2018-07-11T18:47:11+09:00'
 
 ---
 # アプリの新規作成  
@@ -125,7 +116,7 @@ export class AppComponent {
 <!--
   自動生成されたコードを消して、<h1>だけにします。
 -->
-<h1>{{title}}</h1>
+<h1>{{"{{"}}title}}</h1>
 ```  
   
 空のCSSファイル `src/app/app.component.css` が生成されているので、アプリケーション全体に適用するスタイルを記述します。  

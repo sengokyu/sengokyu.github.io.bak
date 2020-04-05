@@ -1,23 +1,15 @@
 ---
-'created_at: ': '2017-06-14T15:01:55+09:00'
+date: '2017-06-14T15:01:55+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Linux
-      versions: []
-    - name: CentOS
-      versions: []
-    - name: Cloud
-      versions: []
-    - name: oVirt
-      versions: []
-  state: 0
-title: "[oVirt][CentOS][Linux] oVirt\u306E\u30E6\u30FC\u30B6\u8A8D\u8A3C\u3092ActiveDirectory\u306B\
-  \u4EFB\u305B\u308B"
-'updated_at: ': '2017-06-14T15:01:55+09:00'
+published: true
+qiita_article_id: 2b75552d39b2540832e3
+tags:
+- Linux
+- CentOS
+- Cloud
+- oVirt
+title: '[oVirt][CentOS][Linux] oVirtのユーザ認証をActiveDirectoryに任せる'
+updated: '2017-06-14T15:01:55+09:00'
 
 ---
 Active DirectoryのユーザIDとパスワードでoVirtにログインできるようにします。  

@@ -1,23 +1,15 @@
 ---
-'created_at: ': '2016-10-19T10:56:06+09:00'
+date: '2016-10-19T10:56:06+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Ubuntu
-      versions: []
-    - name: skype
-      versions: []
-    - name: Office365
-      versions: []
-    - name: Lync
-      versions: []
-  state: 0
-title: "[Ubuntu][Skype for Business][Lync] Ubuntu 16.04\u304B\u3089Skype for Business\u3078\
-  \u63A5\u7D9A\u3059\u308B"
-'updated_at: ': '2019-09-21T16:19:03+09:00'
+published: true
+qiita_article_id: c0e0e5f44d7d0147f6e7
+tags:
+- Ubuntu
+- skype
+- Office365
+- Lync
+title: '[Ubuntu][Skype for Business][Lync] Ubuntu 16.04からSkype for Businessへ接続する'
+updated: '2019-09-21T16:19:03+09:00'
 
 ---
 # 概要  

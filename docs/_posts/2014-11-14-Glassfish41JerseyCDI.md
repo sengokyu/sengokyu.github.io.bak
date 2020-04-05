@@ -1,24 +1,14 @@
 ---
-'created_at: ': '2014-11-14T17:48:25+09:00'
+date: '2014-11-14T17:48:25+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: glassfish
-      versions:
-      - '4.1'
-    - name: CDI
-      versions: []
-    - name: jersey
-      versions:
-      - 2.10.4
-  state: 0
-title: "Glassfish 4.1\u306B\u304A\u3044\u3066\u3001Jersey\u30EA\u30BD\u30FC\u30B9\u306B\
-  CDI\u3067\u30A4\u30F3\u30B8\u30A7\u30AF\u30C8\u3067\u304D\u306A\u3044\u3002\u3068\
-  \u3044\u3046\u30CF\u30DE\u30EA\u306E\u8A18\u9332"
-'updated_at: ': '2014-11-14T21:03:23+09:00'
+published: true
+qiita_article_id: 237e7587be3674f82334
+tags:
+- glassfish
+- CDI
+- jersey
+title: Glassfish 4.1において、JerseyリソースにCDIでインジェクトできない。というハマリの記録
+updated: '2014-11-14T21:03:23+09:00'
 
 ---
 # 概要  

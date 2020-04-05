@@ -1,20 +1,13 @@
 ---
-'created_at: ': '2019-01-09T13:20:29+09:00'
+date: '2019-01-09T13:20:29+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: JavaScript
-      versions: []
-    - name: TypeScript
-      versions: []
-  state: 0
-title: "[TypeScript] \u6307\u5B9A\u5E74\u6708\u306E\u30AB\u30EC\u30F3\u30C0\u30FC\u4E8C\
-  \u6B21\u5143\u914D\u5217\u3092\u51FA\u529B\u3059\u308B\u30D7\u30ED\u30B0\u30E9\u30E0\
-  \u30B5\u30F3\u30D7\u30EB"
-'updated_at: ': '2019-01-09T13:21:33+09:00'
+published: true
+qiita_article_id: 0f01fcb93ff85a051749
+tags:
+- JavaScript
+- TypeScript
+title: '[TypeScript] 指定年月のカレンダー二次元配列を出力するプログラムサンプル'
+updated: '2019-01-09T13:21:33+09:00'
 
 ---
 # これはなに？  

@@ -1,19 +1,13 @@
 ---
-'created_at: ': '2018-08-29T10:56:07+09:00'
+date: '2018-08-29T10:56:07+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Ubuntu
-      versions: []
-    - name: Azure
-      versions: []
-  state: 0
-title: "[Ubuntu] Azure Storage account\u306EFile\u5171\u6709\u3092cifs\u7D4C\u7531\
-  \u3067\u30AA\u30FC\u30C8\u30DE\u30A6\u30F3\u30C8"
-'updated_at: ': '2018-08-29T10:56:07+09:00'
+published: true
+qiita_article_id: e078992f0369edbb827c
+tags:
+- Ubuntu
+- Azure
+title: '[Ubuntu] Azure Storage accountのFile共有をcifs経由でオートマウント'
+updated: '2018-08-29T10:56:07+09:00'
 
 ---
 # これはなに？  

@@ -1,18 +1,12 @@
 ---
-'created_at: ': '2015-07-23T09:53:25+09:00'
+date: '2015-07-23T09:53:25+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Maven
-      versions: []
-  state: 0
-title: "Maven antrun\u30D7\u30E9\u30B0\u30A4\u30F3\u3092\u5229\u7528\u3057\u3066\u3001\
-  \u30C6\u30B9\u30C8\u6642\u306B\u30EA\u30BD\u30FC\u30B9\u30D5\u30A1\u30A4\u30EB\u3092\
-  \u30B3\u30D4\u30FC\u3059\u308B\u3002"
-'updated_at: ': '2015-07-23T09:53:25+09:00'
+published: true
+qiita_article_id: 50004e9c30cfbc8a9e91
+tags:
+- Maven
+title: Maven antrunプラグインを利用して、テスト時にリソースファイルをコピーする。
+updated: '2015-07-23T09:53:25+09:00'
 
 ---
 # 概略  

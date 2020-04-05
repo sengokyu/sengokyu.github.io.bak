@@ -1,19 +1,13 @@
 ---
-'created_at: ': '2019-09-07T17:34:55+09:00'
+date: '2019-09-07T17:34:55+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: AWS
-      versions: []
-    - name: CloudFront
-      versions: []
-  state: 0
-title: "[AWS] CloudFront Distribution\u3092\u30B3\u30DE\u30F3\u30C9\u30E9\u30A4\u30F3\
-  (CLI)\u304B\u3089\u4F5C\u6210\u3059\u308B"
-'updated_at: ': '2019-10-06T15:28:04+09:00'
+published: true
+qiita_article_id: 4f93a2b2209ab72578bf
+tags:
+- AWS
+- CloudFront
+title: '[AWS] CloudFront Distributionをコマンドライン(CLI)から作成する'
+updated: '2019-10-06T15:28:04+09:00'
 
 ---
 CLIいいですよね。  

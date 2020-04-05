@@ -1,21 +1,14 @@
 ---
-'created_at: ': '2019-02-05T12:18:17+09:00'
+date: '2019-02-05T12:18:17+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Amazon
-      versions: []
-    - name: AmazonProductAdvertisingApi
-      versions: []
-    - name: AmazonAssociate
-      versions: []
-  state: 0
-title: "Amazon Product Advertising API\u306E\u59CB\u3081\u65B9^H^H^H\u59CB\u3081\u3089\
-  \u308C\u306A\u304B\u3063\u305F"
-'updated_at: ': '2019-02-05T12:18:17+09:00'
+published: true
+qiita_article_id: 1f7da02ec3f59d391982
+tags:
+- Amazon
+- AmazonProductAdvertisingApi
+- AmazonAssociate
+title: Amazon Product Advertising APIの始め方^H^H^H始められなかった
+updated: '2019-02-05T12:18:17+09:00'
 
 ---
 Amazon Product Advertising APIの始め方です。  

@@ -1,26 +1,16 @@
 ---
-'created_at: ': '2018-09-22T20:36:07+09:00'
+date: '2018-09-22T20:36:07+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: .NET
-      versions: []
-    - name: WPF
-      versions: []
-    - name: WinForms
-      versions: []
-    - name: Electron
-      versions: []
-    - name: UWP
-      versions: []
-  state: 0
-title: "[Microsoft] Windows\u30C7\u30B9\u30AF\u30C8\u30C3\u30D7\u5411\u3051\u696D\u52D9\
-  \u30A2\u30D7\u30EA\u958B\u767A\u306B\u306F\u4F55\u3092\u63A1\u7528\u3059\u3079\u304D\
-  \u304B\uFF1F"
-'updated_at: ': '2020-03-03T18:21:58+09:00'
+published: true
+qiita_article_id: fb4948e0d2746e3cc26f
+tags:
+- .NET
+- WPF
+- WinForms
+- Electron
+- UWP
+title: '[Microsoft] Windowsデスクトップ向け業務アプリ開発には何を採用すべきか？'
+updated: '2020-03-03T18:21:58+09:00'
 
 ---
 Windowsデスクトップ向けの業務アプリケーション開発において、どのようなテクノロジを採用すべきか考えたいと思います。  

@@ -1,23 +1,15 @@
 ---
-'created_at: ': '2019-01-26T20:08:49+09:00'
+date: '2019-01-26T20:08:49+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Azure
-      versions: []
-    - name: CI
-      versions: []
-    - name: AzureDevOps
-      versions: []
-    - name: AzurePipelines
-      versions: []
-  state: 0
-title: "[Microsoft] Azure Pipelines \u5229\u7528\u3055\u308C\u308B\u30C7\u30A3\u30EC\
-  \u30AF\u30C8\u30EA\u3068\u53C2\u7167\u3059\u308B\u5909\u6570"
-'updated_at: ': '2019-02-25T12:57:49+09:00'
+published: true
+qiita_article_id: 29ad50da2c8a58b87ee3
+tags:
+- Azure
+- CI
+- AzureDevOps
+- AzurePipelines
+title: '[Microsoft] Azure Pipelines 利用されるディレクトリと参照する変数'
+updated: '2019-02-25T12:57:49+09:00'
 
 ---
 Azure Pipelinesの中で、ファイルが展開される先のディレクトリと、それを参照する変数をまとめてみました。  

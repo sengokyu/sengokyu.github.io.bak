@@ -1,20 +1,13 @@
 ---
-'created_at: ': '2016-11-17T18:47:57+09:00'
+date: '2016-11-17T18:47:57+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Java
-      versions: []
-    - name: spring-boot
-      versions: []
-  state: 0
-title: "[Java][Spring Boot] JPA\u30A8\u30F3\u30C6\u30A3\u30C6\u30A3\u3092DTO\u3078\
-  \u5909\u63DB\u3059\u308B\u65B9\u6CD5\u3001\u3068\u3044\u3046\u304B\u305D\u3082\u305D\
-  \u3082\u5909\u63DB\u3059\u308B\u3079\u304D\uFF1F"
-'updated_at: ': '2016-11-17T18:47:57+09:00'
+published: true
+qiita_article_id: 431f406133f98d04aa85
+tags:
+- Java
+- spring-boot
+title: '[Java][Spring Boot] JPAエンティティをDTOへ変換する方法、というかそもそも変換するべき？'
+updated: '2016-11-17T18:47:57+09:00'
 
 ---
 [`spring-boot-starter-data-rest` を使用すれば](https://spring.io/guides/gs/accessing-data-rest/)、Repositoryインターフェースに`@RepositoryRestResource`アノテーションをつけるだけで、JPAエンティティをJSONとして公開できます。  

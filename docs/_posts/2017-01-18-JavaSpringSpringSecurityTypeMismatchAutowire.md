@@ -1,20 +1,13 @@
 ---
-'created_at: ': '2017-01-18T10:53:32+09:00'
+date: '2017-01-18T10:53:32+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Java
-      versions: []
-    - name: spring
-      versions: []
-  state: 0
-title: "[Java][Spring] Spring Security\u306E\u30A2\u30CE\u30C6\u30FC\u30B7\u30E7\u30F3\
-  \u3092\u4ED8\u3051\u305F\u3089\u3001Type Mismatch\u3067Autowire\u3067\u304D\u306A\
-  \u3044\u3068\u304D\u306E\u5BFE\u51E6\u65B9\u6CD5"
-'updated_at: ': '2017-01-18T10:53:32+09:00'
+published: true
+qiita_article_id: 26e63031d9473e8f169b
+tags:
+- Java
+- spring
+title: '[Java][Spring] Spring Securityのアノテーションを付けたら、Type MismatchでAutowireできないときの対処方法'
+updated: '2017-01-18T10:53:32+09:00'
 
 ---
 # 背景  

@@ -1,17 +1,12 @@
 ---
-'created_at: ': '2019-07-18T23:25:24+09:00'
+date: '2019-07-18T23:25:24+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: SQLServer
-      versions: []
-  state: 0
-title: "[Microsoft][SQL Server] create database/login/user \u59CB\u3081\u65B9\u30E1\
-  \u30E2"
-'updated_at: ': '2019-09-19T15:46:20+09:00'
+published: true
+qiita_article_id: d628d0ac50ef54da4268
+tags:
+- SQLServer
+title: '[Microsoft] SQLから始めるSQL Serverデータベース'
+updated: '2020-04-02T10:25:11+09:00'
 
 ---
 # これはなに？  
@@ -43,9 +38,9 @@ go
 ```sql
 CREATE LOGIN ログインID
 WITH
-  PASSWORD = 'パスワード'
-  DEFAULT_DATABASE = 'データベース名'
-  CHECK_EXPIRATEION = OFF -- 有効期限チェックしない
+  PASSWORD = 'パスワード',
+  DEFAULT_DATABASE = データベース名,
+  CHECK_EXPIRATION = OFF, -- 有効期限チェックしない
   CHECK_POLICY = OFF -- パスワードの複雑性要件をチェックしない
 go
 ```  

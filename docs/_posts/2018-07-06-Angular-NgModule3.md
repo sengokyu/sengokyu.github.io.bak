@@ -1,21 +1,14 @@
 ---
-'created_at: ': '2018-07-06T11:29:33+09:00'
+date: '2018-07-06T11:29:33+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: JavaScript
-      versions: []
-    - name: TypeScript
-      versions: []
-    - name: Angular
-      versions: []
-  state: 0
-title: "[Angular] \u30D6\u30FC\u30C8\u30B9\u30C8\u30E9\u30C3\u30D7 - @NgModule\u3068\
-  \u306F\u4F55\u304B (3)"
-'updated_at: ': '2018-07-06T11:29:33+09:00'
+published: true
+qiita_article_id: 4416ecafddac7ddeac53
+tags:
+- JavaScript
+- TypeScript
+- Angular
+title: '[Angular] ブートストラップ - @NgModuleとは何か (3)'
+updated: '2018-07-06T11:29:33+09:00'
 
 ---
 `@NgModule`とはなんなのかを知るシリーズ3回目です。  

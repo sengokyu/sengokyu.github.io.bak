@@ -1,25 +1,16 @@
 ---
-'created_at: ': '2018-10-07T19:29:52+09:00'
+date: '2018-10-07T19:29:52+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: JavaScript
-      versions: []
-    - name: "\u30C6\u30B9\u30C8"
-      versions: []
-    - name: bottlejs
-      versions: []
-    - name: InversifyJS
-      versions: []
-    - name: awilix
-      versions: []
-  state: 0
-title: "[JavaScript] Dependency Injection\u30B3\u30F3\u30C6\u30CA\u3069\u308C\u306B\
-  \u3057\u3088\u3046\uFF1F"
-'updated_at: ': '2018-10-09T18:24:37+09:00'
+published: true
+qiita_article_id: c5b155670c8b4ccd4789
+tags:
+- JavaScript
+- テスト
+- bottlejs
+- InversifyJS
+- awilix
+title: '[JavaScript] Dependency Injectionコンテナどれにしよう？'
+updated: '2018-10-09T18:24:37+09:00'
 
 ---
 Azure FunctionsをJavaScriptで書いていました。  

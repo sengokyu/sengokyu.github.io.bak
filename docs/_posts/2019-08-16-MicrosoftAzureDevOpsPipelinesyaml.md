@@ -1,21 +1,14 @@
 ---
-'created_at: ': '2019-08-16T11:32:44+09:00'
+date: '2019-08-16T11:32:44+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Azure
-      versions: []
-    - name: AzureDevOps
-      versions: []
-    - name: AzurePipelines
-      versions: []
-  state: 0
-title: "[Microsoft] Azure DevOps Pipelines\u3067\u3001\u8907\u6570\u306Eyaml\u30D5\
-  \u30A1\u30A4\u30EB\u3092\u4F7F\u3044\u5206\u3051\u308B\u65B9\u6CD5"
-'updated_at: ': '2019-08-16T11:32:44+09:00'
+published: true
+qiita_article_id: d0adc19e38aee878fe8d
+tags:
+- Azure
+- AzureDevOps
+- AzurePipelines
+title: '[Microsoft] Azure DevOps Pipelinesで、複数のyamlファイルを使い分ける方法'
+updated: '2019-08-16T11:32:44+09:00'
 
 ---
 # これはなに？  

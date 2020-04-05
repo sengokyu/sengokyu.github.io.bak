@@ -1,20 +1,14 @@
 ---
-'created_at: ': '2017-07-18T13:43:57+09:00'
+date: '2017-07-18T13:43:57+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Windows
-      versions: []
-    - name: GitBucket
-      versions: []
-    - name: ActiveDirectory
-      versions: []
-  state: 0
-title: "[GitBucket][Windows] GitBucket\u3068Active Directory\u306E\u9023\u643A"
-'updated_at: ': '2017-07-18T15:47:53+09:00'
+published: true
+qiita_article_id: 6362c9b663b906c412bf
+tags:
+- Windows
+- GitBucket
+- ActiveDirectory
+title: '[GitBucket][Windows] GitBucketとActive Directoryの連携'
+updated: '2017-07-18T15:47:53+09:00'
 
 ---
 GitBucketに、Active Directoryで使用しているログインIDとパスワードでログインできるようにします。  

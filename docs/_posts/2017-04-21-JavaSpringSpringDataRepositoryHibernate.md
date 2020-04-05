@@ -1,25 +1,15 @@
 ---
-'created_at: ': '2017-04-21T00:26:41+09:00'
+date: '2017-04-21T00:26:41+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Java
-      versions: []
-    - name: spring
-      versions: []
-    - name: spring-boot
-      versions: []
-    - name: spring-data-jpa
-      versions: []
-  state: 0
-title: "[Java][Spring] Spring Data\u306ERepository\u3092\u30A4\u30F3\u30B9\u30BF\u30F3\
-  \u30B9\u5316\u3059\u308B\u969B\u306BHibernate\u306E\u30D5\u30A3\u30EB\u30BF\u3092\
-  \u6709\u52B9\u306B\u3057\u3088\u3046\u3068\u3057\u3066\u5931\u6557\u3057\u305F\u8A18\
-  \u9332"
-'updated_at: ': '2017-04-21T00:28:29+09:00'
+published: true
+qiita_article_id: c8d1dd1f1c0816711c98
+tags:
+- Java
+- spring
+- spring-boot
+- spring-data-jpa
+title: '[Java][Spring] Spring DataのRepositoryをインスタンス化する際にHibernateのフィルタを有効にしようとして失敗した記録'
+updated: '2017-04-21T00:28:29+09:00'
 
 ---
 # 動機  

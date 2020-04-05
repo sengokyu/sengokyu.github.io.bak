@@ -1,21 +1,14 @@
 ---
-'created_at: ': '2019-01-31T11:08:58+09:00'
+date: '2019-01-31T11:08:58+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Azure
-      versions: []
-    - name: AzureWebApps
-      versions: []
-    - name: AzureADB2C
-      versions: []
-  state: 0
-title: "[Microsoft] Azure WebApps (App Service)\u306E\u7C21\u6613\u8A8D\u8A3C\u3067\
-  Azure AD B2C\u3092\u4F7F\u3046\u65B9\u6CD5"
-'updated_at: ': '2019-02-25T12:57:30+09:00'
+published: true
+qiita_article_id: 3a4b2edbcfa00344ff55
+tags:
+- Azure
+- AzureWebApps
+- AzureADB2C
+title: '[Microsoft] Azure WebApps (App Service)の簡易認証でAzure AD B2Cを使う方法'
+updated: '2019-02-25T12:57:30+09:00'
 
 ---
 Azure App Serviceの簡易認証でAzure AD B2Cを使うと、フリープランのAzure ADではできないログイン画面のカスタマイズができる(?)かもしれません。  

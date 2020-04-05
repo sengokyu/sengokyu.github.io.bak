@@ -1,17 +1,12 @@
 ---
-'created_at: ': '2015-01-08T20:23:58+09:00'
+date: '2015-01-08T20:23:58+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: jpa
-      versions: []
-  state: 0
-title: "OneToMany\u3067\u5916\u90E8\u30AD\u30FC\u3092\u4FDD\u5B58\u3059\u308B\u305F\
-  \u3081\u306E\u8A66\u884C\u932F\u8AA4\u306E\u8A18\u9332"
-'updated_at: ': '2015-01-08T20:26:01+09:00'
+published: true
+qiita_article_id: c8fb4277e39ca43a51de
+tags:
+- jpa
+title: OneToManyで外部キーを保存するための試行錯誤の記録
+updated: '2015-01-08T20:26:01+09:00'
 
 ---
 # 環境 #  

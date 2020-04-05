@@ -1,21 +1,15 @@
 ---
-'created_at: ': '2016-11-07T17:53:12+09:00'
+date: '2016-11-07T17:53:12+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Java
-      versions: []
-    - name: spring
-      versions: []
-    - name: spring-boot
-      versions: []
-  state: 0
-title: "[Java][Spring Boot] \u4F9D\u5B58\u6027\u6CE8\u5165(Dependency Injection)\u306E\
-  \u4F7F\u3044\u65B9 - NetBeans\u3067\u59CB\u3081\u308BSpring Boot (5)"
-'updated_at: ': '2016-11-08T13:00:40+09:00'
+published: true
+qiita_article_id: eda42338db43362bd69c
+tags:
+- Java
+- spring
+- spring-boot
+title: '[Java][Spring Boot] 依存性注入(Dependency Injection)の使い方 - NetBeansで始めるSpring Boot
+  (5)'
+updated: '2016-11-08T13:00:40+09:00'
 
 ---
 Spring BootのDIは、どのように使えばよいのでしょうか。  

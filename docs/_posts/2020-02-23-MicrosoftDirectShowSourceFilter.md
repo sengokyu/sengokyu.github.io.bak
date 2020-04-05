@@ -1,20 +1,14 @@
 ---
-'created_at: ': '2020-02-23T13:41:53+09:00'
+date: '2020-02-23T13:41:53+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Windows
-      versions: []
-    - name: DirectX
-      versions: []
-    - name: DirectShow.NET
-      versions: []
-  state: 0
-title: "[Microsoft] DirectShow Source Filter \u30E1\u30E2"
-'updated_at: ': '2020-02-23T13:41:53+09:00'
+published: false
+qiita_article_id: e2b612ff01e8d2d08007
+tags:
+- Windows
+- DirectX
+- DirectShow.NET
+title: '[Microsoft] DirectShow Source Filter メモ'
+updated: '2020-02-23T13:41:53+09:00'
 
 ---
 https://stackoverflow.com/questions/1801881/how-to-make-a-video-mini-filter-driver  

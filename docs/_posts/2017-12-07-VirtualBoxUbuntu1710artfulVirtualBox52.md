@@ -1,19 +1,13 @@
 ---
-'created_at: ': '2017-12-07T15:05:20+09:00'
+date: '2017-12-07T15:05:20+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Ubuntu
-      versions: []
-    - name: VirtualBox
-      versions: []
-  state: 0
-title: "[VirtualBox] Ubuntu 17.10(artful)\u306B\u6700\u65B0\u7248VirtualBox 5.2\u3092\
-  \u30A4\u30F3\u30B9\u30C8\u30FC\u30EB\u3059\u308B"
-'updated_at: ': '2017-12-07T16:46:33+09:00'
+published: true
+qiita_article_id: 3e8b0c00eda832689d18
+tags:
+- Ubuntu
+- VirtualBox
+title: '[VirtualBox] Ubuntu 17.10(artful)に最新版VirtualBox 5.2をインストールする'
+updated: '2017-12-07T16:46:33+09:00'
 
 ---
 標準レポジトリには5.1.30が入っています。  

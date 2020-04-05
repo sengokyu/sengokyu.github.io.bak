@@ -1,23 +1,15 @@
 ---
-'created_at: ': '2019-06-05T12:52:41+09:00'
+date: '2019-06-05T12:52:41+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: "\u30C6\u30B9\u30C8"
-      versions: []
-    - name: TypeScript
-      versions: []
-    - name: Angular
-      versions: []
-    - name: Zone.JS
-      versions: []
-  state: 0
-title: "[Angular] \u30C6\u30B9\u30C8\u30EC\u30B7\u30D4 - fakeAsync\u306E\u4F7F\u3044\
-  \u51E6"
-'updated_at: ': '2019-06-05T12:52:41+09:00'
+published: true
+qiita_article_id: 272bba52daace2e617ba
+tags:
+- テスト
+- TypeScript
+- Angular
+- Zone.JS
+title: '[Angular] テストレシピ - fakeAsyncの使い処'
+updated: '2019-06-05T12:52:41+09:00'
 
 ---
 # はじめに  

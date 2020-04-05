@@ -1,24 +1,16 @@
 ---
-'created_at: ': '2016-09-21T14:36:22+09:00'
+date: '2016-09-21T14:36:22+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: PHP
-      versions: []
-    - name: MySQL
-      versions: []
-    - name: Azure
-      versions: []
-    - name: mariadb
-      versions: []
-  state: 0
-title: "[MySQL][MariaDB][Azure][blob] MariaDB\u306E\u30C0\u30F3\u30D7\uFF08\u30D0\u30C3\
-  \u30AF\u30A2\u30C3\u30D7\uFF09\u3092Azure SDK for PHP\u3092\u4F7F\u3063\u3066Azure\
-  \ Storage Blob\u3078\u4FDD\u5B58\u3059\u308B\uFF06\u60B2\u5831"
-'updated_at: ': '2016-09-21T14:38:50+09:00'
+published: true
+qiita_article_id: 568f6d93841babaaf5a0
+tags:
+- PHP
+- MySQL
+- Azure
+- mariadb
+title: '[MySQL][MariaDB][Azure][blob] MariaDBのダンプ（バックアップ）をAzure SDK for PHPを使ってAzure
+  Storage Blobへ保存する＆悲報'
+updated: '2016-09-21T14:38:50+09:00'
 
 ---
 # 書いてあること  

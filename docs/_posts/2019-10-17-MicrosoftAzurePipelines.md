@@ -1,23 +1,15 @@
 ---
-'created_at: ': '2019-10-17T23:25:34+09:00'
+date: '2019-10-17T23:25:34+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Azure
-      versions: []
-    - name: CI
-      versions: []
-    - name: pipelines
-      versions: []
-    - name: AzureDevOps
-      versions: []
-  state: 0
-title: "[Microsoft] Azure Pipelines\u30D3\u30EB\u30C9\u74B0\u5883\u3092\u81EA\u524D\
-  \u3067\u7528\u610F\uFF08\u30BB\u30EB\u30D5\u30DB\u30B9\u30C8\uFF09\u3059\u308B"
-'updated_at: ': '2020-02-08T14:03:46+09:00'
+published: true
+qiita_article_id: 8bbb648783814e8956ba
+tags:
+- Azure
+- CI
+- pipelines
+- AzureDevOps
+title: '[Microsoft] Azure Pipelinesビルド環境を自前で用意（セルフホスト）する'
+updated: '2020-02-08T14:03:46+09:00'
 
 ---
 # はじめに  

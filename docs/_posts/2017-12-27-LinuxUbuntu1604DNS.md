@@ -1,25 +1,16 @@
 ---
-'created_at: ': '2017-12-27T15:02:58+09:00'
+date: '2017-12-27T15:02:58+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Windows
-      versions: []
-    - name: Linux
-      versions: []
-    - name: Ubuntu
-      versions: []
-    - name: dns
-      versions: []
-    - name: ActiveDirectory
-      versions: []
-  state: 0
-title: "[Linux] Ubuntu 16.04\u3067DNS\u30EC\u30B3\u30FC\u30C9\u3092\u52D5\u7684\u306B\
-  \u66F4\u65B0\u3059\u308B"
-'updated_at: ': '2018-09-26T11:32:49+09:00'
+published: true
+qiita_article_id: 34dd294a1604d480458c
+tags:
+- Windows
+- Linux
+- Ubuntu
+- dns
+- ActiveDirectory
+title: '[Linux] Ubuntu 16.04でDNSレコードを動的に更新する'
+updated: '2018-09-26T11:32:49+09:00'
 
 ---
 今まではネームサーバへのレコード登録をDHCPサーバに任せていましたが、`nsupdate`コマンドを使って積極的に登録するようにしました。  

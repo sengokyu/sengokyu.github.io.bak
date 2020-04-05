@@ -1,24 +1,16 @@
 ---
-'created_at: ': '2016-06-24T11:27:36+09:00'
+date: '2016-06-24T11:27:36+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Linux
-      versions: []
-    - name: CentOS
-      versions: []
-    - name: vmware
-      versions: []
-    - name: Hyper-V
-      versions: []
-  state: 0
-title: "Hyper-V\u4E0A\u306ELinux\u4EEE\u60F3\u30DE\u30B7\u30F3\u3092VMware ESXi\u3078\
-  \u79FB\u884C\u3059\u308B\u624B\u9806 - Migrate Linux virtual machine on Hyper-V\
-  \ to VMware ESXi"
-'updated_at: ': '2016-06-29T10:35:41+09:00'
+published: true
+qiita_article_id: b19a066132478d3806c3
+tags:
+- Linux
+- CentOS
+- vmware
+- Hyper-V
+title: Hyper-V上のLinux仮想マシンをVMware ESXiへ移行する手順 - Migrate Linux virtual machine on Hyper-V
+  to VMware ESXi
+updated: '2016-06-29T10:35:41+09:00'
 
 ---
 # 概要  

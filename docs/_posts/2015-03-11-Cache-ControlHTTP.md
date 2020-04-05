@@ -1,21 +1,14 @@
 ---
-'created_at: ': '2015-03-11T10:38:42+09:00'
+date: '2015-03-11T10:38:42+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Java
-      versions: []
-    - name: JAX-RS
-      versions: []
-    - name: JavaEE
-      versions: []
-  state: 0
-title: "\u30A2\u30CE\u30C6\u30FC\u30B7\u30E7\u30F3\u3067Cache-Control HTTP\u30D8\u30C3\
-  \u30C0\u3092\u5236\u5FA1\u3059\u308B"
-'updated_at: ': '2015-03-11T10:38:42+09:00'
+published: true
+qiita_article_id: 79bd10c2b0e04f38fd46
+tags:
+- Java
+- JAX-RS
+- JavaEE
+title: アノテーションでCache-Control HTTPヘッダを制御する
+updated: '2015-03-11T10:38:42+09:00'
 
 ---
 # 概要  

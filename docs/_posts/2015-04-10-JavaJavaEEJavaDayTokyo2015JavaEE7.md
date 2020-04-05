@@ -1,23 +1,14 @@
 ---
-'created_at: ': '2015-04-10T11:47:26+09:00'
+date: '2015-04-10T11:47:26+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Java
-      versions: []
-    - name: JavaEE
-      versions:
-      - '7'
-    - name: CDI
-      versions: []
-  state: 0
-title: "[Java][Java EE] Java Day Tokyo 2015 \u5BFA\u7530\u4F73\u592E\u3055\u3093\u8B1B\
-  \u6F14\u300EJava EE 7\u30A8\u30C3\u30BB\u30F3\u30B7\u30E3\u30EB\u30EC\u30B7\u30D4\
-  \u300F\u307E\u3068\u3081"
-'updated_at: ': '2016-08-09T09:06:48+09:00'
+published: true
+qiita_article_id: b1a5492819cfa946bb3f
+tags:
+- Java
+- JavaEE
+- CDI
+title: '[Java][Java EE] Java Day Tokyo 2015 寺田佳央さん講演『Java EE 7エッセンシャルレシピ』まとめ'
+updated: '2016-08-09T09:06:48+09:00'
 
 ---
 **※この文章は講演をもとにしていますが、自分が理解できた内容をまとめているものです。文章中の誤り等はすべて自分に責任があります。**  

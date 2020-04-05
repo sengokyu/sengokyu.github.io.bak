@@ -1,17 +1,12 @@
 ---
-'created_at: ': '2016-10-03T21:09:41+09:00'
+date: '2016-10-03T21:09:41+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Lubuntu
-      versions: []
-  state: 0
-title: "[Lubuntu][Linux] Lubuntu 16.04\u3067\u3001Caps Lock\u3092Ctrl\u306B\u3059\u308B\
-  \u65B9\u6CD5\u3044\u308D\u3044\u308D"
-'updated_at: ': '2016-10-03T21:09:41+09:00'
+published: true
+qiita_article_id: 51e3e8837d3ce6a04ea0
+tags:
+- Lubuntu
+title: '[Lubuntu][Linux] Lubuntu 16.04で、Caps LockをCtrlにする方法いろいろ'
+updated: '2016-10-03T21:09:41+09:00'
 
 ---
 Ubuntu 16.04を入れたあと、`apt-get install lubuntu-desktop`してLubuntuにした環境でのお話です。  

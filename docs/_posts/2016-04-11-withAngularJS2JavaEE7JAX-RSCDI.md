@@ -1,25 +1,16 @@
 ---
-'created_at: ': '2016-04-11T21:19:40+09:00'
+date: '2016-04-11T21:19:40+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Java
-      versions: []
-    - name: JavaScript
-      versions: []
-    - name: Angular
-      versions: []
-    - name: JavaEE
-      versions: []
-    - name: "\u30BA\u30F3\u30C9\u30B3\u30AD\u30E8\u30B7"
-      versions: []
-  state: 0
-title: "\uFF08\u7121\u99C4\u306B\u5927\u4EF0\u306A\uFF09\u30BA\u30F3\u30C9\u30B3\u30AD\
-  \u30E8\u30B7 with AngularJS 2, Java EE 7(JAX-RS, CDI)"
-'updated_at: ': '2016-04-11T21:32:15+09:00'
+published: true
+qiita_article_id: 4f461dc23b2d02ae76bc
+tags:
+- Java
+- JavaScript
+- Angular
+- JavaEE
+- ズンドコキヨシ
+title: （無駄に大仰な）ズンドコキヨシ with AngularJS 2, Java EE 7(JAX-RS, CDI)
+updated: '2016-04-11T21:32:15+09:00'
 
 ---
 ミニマムな方向はいろいろ出ているので、大仰な方向に走ってみました。  

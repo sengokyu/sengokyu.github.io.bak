@@ -1,19 +1,13 @@
 ---
-'created_at: ': '2016-10-31T18:46:33+09:00'
+date: '2016-10-31T18:46:33+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Java
-      versions: []
-    - name: spring-boot
-      versions: []
-  state: 0
-title: "[Java][Spring Boot] \u30ED\u30B0\u30A4\u30F3\u753B\u9762\u3092\u4F5C\u308B\
-  \ - NetBeans\u3067\u59CB\u3081\u308BSpring Boot(3)"
-'updated_at: ': '2016-11-07T13:03:46+09:00'
+published: true
+qiita_article_id: 67552813f521b52bff11
+tags:
+- Java
+- spring-boot
+title: '[Java][Spring Boot] ログイン画面を作る - NetBeansで始めるSpring Boot(3)'
+updated: '2016-11-07T13:03:46+09:00'
 
 ---
 [Spring MVCをやめてJersey(JAX-RS)を使おうとしました](http://qiita.com/sengoku/items/891eb6ae0bdb5be1dfa5)が、ドキュメントの整備状況から察するに茨の道のようなので、やっぱりSpring MVCでいくことにします。  

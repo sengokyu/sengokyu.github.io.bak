@@ -1,21 +1,14 @@
 ---
-'created_at: ': '2019-10-30T14:53:35+09:00'
+date: '2019-10-30T14:53:35+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: PHP
-      versions: []
-    - name: CentOS
-      versions: []
-    - name: oracle
-      versions: []
-  state: 0
-title: "[PHP] CentOS 8\u306BPHP\u3068OCI8\u3092\u30A4\u30F3\u30B9\u30C8\u30FC\u30EB\
-  \u3059\u308B\u30E1\u30E2"
-'updated_at: ': '2019-10-30T15:59:51+09:00'
+published: true
+qiita_article_id: 16c12b459dddf3a14e19
+tags:
+- PHP
+- CentOS
+- oracle
+title: '[PHP] CentOS 8にPHPとOCI8をインストールするメモ'
+updated: '2019-10-30T15:59:51+09:00'
 
 ---
 # はじめに  

@@ -1,20 +1,13 @@
 ---
-'created_at: ': '2015-07-10T18:12:15+09:00'
+date: '2015-07-10T18:12:15+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: PowerShell
-      versions: []
-    - name: Putty
-      versions: []
-  state: 0
-title: "PowerShell\u304B\u3089putty\u306Escp\u30B3\u30DE\u30F3\u30C9\u3092\u4F7F\u7528\
-  \u3057\u3066\u30D5\u30A1\u30A4\u30EB\u3092\u30A2\u30C3\u30D7\u30ED\u30FC\u30C9\u3059\
-  \u308B"
-'updated_at: ': '2015-07-13T09:16:50+09:00'
+published: true
+qiita_article_id: 3ef87c6af0c1b0441f09
+tags:
+- PowerShell
+- Putty
+title: PowerShellからputtyのscpコマンドを使用してファイルをアップロードする
+updated: '2015-07-13T09:16:50+09:00'
 
 ---
 PowerShellから外部コマンド（puttyのpscp）を呼び出して、リモートへファイルをコピーします。  

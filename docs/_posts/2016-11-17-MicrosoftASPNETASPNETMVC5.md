@@ -1,18 +1,13 @@
 ---
-'created_at: ': '2016-11-17T09:06:09+09:00'
+date: '2016-11-17T09:06:09+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: ASP.NET
-      versions: []
-    - name: ASP.NET_MVC
-      versions: []
-  state: 0
-title: "[Microsoft][ASP.NET] ASP.NET MVC 5\u30EA\u30F3\u30AF\u96C6"
-'updated_at: ': '2016-11-17T09:06:09+09:00'
+published: true
+qiita_article_id: b89599f65239119dafff
+tags:
+- ASP.NET
+- ASP.NET_MVC
+title: '[Microsoft][ASP.NET] ASP.NET MVC 5リンク集'
+updated: '2016-11-17T09:06:09+09:00'
 
 ---
 # リンク集  

@@ -1,20 +1,13 @@
 ---
-'created_at: ': '2017-07-05T14:24:06+09:00'
+date: '2017-07-05T14:24:06+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Java
-      versions: []
-    - name: Maven
-      versions: []
-  state: 0
-title: "[Java][Maven] 3rd\u30D1\u30FC\u30C6\u30A3\u306Ejar\u30D5\u30A1\u30A4\u30EB\
-  \u3092\u30ED\u30FC\u30AB\u30EB\u30EC\u30DD\u30B8\u30C8\u30EA\u3078\u767B\u9332\u3059\
-  \u308Bpom.xml\u306E\u96DB\u5F62"
-'updated_at: ': '2017-07-05T15:02:10+09:00'
+published: true
+qiita_article_id: ac00699be59622a1040e
+tags:
+- Java
+- Maven
+title: '[Java][Maven] 3rdパーティのjarファイルをローカルレポジトリへ登録するpom.xmlの雛形'
+updated: '2017-07-05T15:02:10+09:00'
 
 ---
 Mavenレポジトリにない野良(?)jarファイルを、ローカルのレポジトリに登録するときに使うpom.xmlファイルの雛形です。  

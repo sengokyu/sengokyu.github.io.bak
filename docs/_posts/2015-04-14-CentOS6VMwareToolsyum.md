@@ -1,19 +1,13 @@
 ---
-'created_at: ': '2015-04-14T16:53:28+09:00'
+date: '2015-04-14T16:53:28+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: CentOS
-      versions: []
-    - name: vmware
-      versions: []
-  state: 0
-title: "CentOS 6\u306BVMware Tools\u3092\u30A4\u30F3\u30B9\u30C8\u30FC\u30EB\u3059\
-  \u308B\u3002yum\u3067\u3002"
-'updated_at: ': '2015-04-14T16:53:28+09:00'
+published: true
+qiita_article_id: 75783371e63061f5fe21
+tags:
+- CentOS
+- vmware
+title: CentOS 6にVMware Toolsをインストールする。yumで。
+updated: '2015-04-14T16:53:28+09:00'
 
 ---
 付属CD-ROMをマウントしてインストールしてもよいのですが、yumのほうが簡単かも！？  

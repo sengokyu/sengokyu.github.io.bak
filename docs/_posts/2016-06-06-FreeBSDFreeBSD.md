@@ -1,19 +1,13 @@
 ---
-'created_at: ': '2016-06-06T11:16:46+09:00'
+date: '2016-06-06T11:16:46+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: ShellScript
-      versions: []
-    - name: FreeBSD
-      versions: []
-  state: 0
-title: "\u3010FreeBSD\u3011\u30EA\u30F3\u30AF\u5207\u308C\u306E\u30B7\u30F3\u30DC\u30EA\
-  \u30C3\u30AF\u30EA\u30F3\u30AF\u3092\u63A2\u3059\u65B9\u6CD5FreeBSD\u7DE8"
-'updated_at: ': '2016-06-06T11:22:26+09:00'
+published: true
+qiita_article_id: 46f3ce2f06b990ba5c1c
+tags:
+- ShellScript
+- FreeBSD
+title: 【FreeBSD】リンク切れのシンボリックリンクを探す方法FreeBSD編
+updated: '2016-06-06T11:22:26+09:00'
 
 ---
 Linuxの場合は、`-xtype`オプションで探せるそうです。  

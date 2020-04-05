@@ -1,25 +1,16 @@
 ---
-'created_at: ': '2017-01-18T10:06:25+09:00'
+date: '2017-01-18T10:06:25+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Java
-      versions: []
-    - name: JavaScript
-      versions: []
-    - name: spring
-      versions: []
-    - name: Angular
-      versions: []
-    - name: gulp
-      versions: []
-  state: 0
-title: "[Java][Spring][JavaScript][gulp][webpack][uglify] \u79C1\u7684AngularJS\u30A2\
-  \u30D7\u30EA\u958B\u767A\u74B0\u5883"
-'updated_at: ': '2017-01-18T10:06:25+09:00'
+published: true
+qiita_article_id: 260015eca079090ec726
+tags:
+- Java
+- JavaScript
+- spring
+- Angular
+- gulp
+title: '[Java][Spring][JavaScript][gulp][webpack][uglify] 私的AngularJSアプリ開発環境'
+updated: '2017-01-18T10:06:25+09:00'
 
 ---
 # 背景  

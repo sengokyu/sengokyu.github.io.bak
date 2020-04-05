@@ -1,17 +1,12 @@
 ---
-'created_at: ': '2015-11-20T11:28:19+09:00'
+date: '2015-11-20T11:28:19+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: SharePoint
-      versions: []
-  state: 0
-title: "[SharePoint] \u30DA\u30FC\u30B8\u30D3\u30E5\u30FC\u30A2\u30FCWeb\u30D1\u30FC\
-  \u30C4\u304C\u52D5\u304B\u306A\u3044"
-'updated_at: ': '2015-11-20T11:28:19+09:00'
+published: true
+qiita_article_id: 9b024387a0d127c2176a
+tags:
+- SharePoint
+title: '[SharePoint] ページビューアーWebパーツが動かない'
+updated: '2015-11-20T11:28:19+09:00'
 
 ---
 # 問題 :dizzy_face:   

@@ -1,21 +1,14 @@
 ---
-'created_at: ': '2017-05-25T10:43:41+09:00'
+date: '2017-05-25T10:43:41+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Linux
-      versions: []
-    - name: CentOS
-      versions: []
-    - name: oVirt
-      versions: []
-  state: 0
-title: "[CentOS][Linux] oVirt4.1\u3067\u697D\u3005(?)\u4EEE\u60F3\u30DE\u30B7\u30F3\
-  \u7BA1\u7406\u3092\u59CB\u3081\u3066\u308F\u304B\u3063\u305F\u3053\u3068"
-'updated_at: ': '2017-05-25T11:31:13+09:00'
+published: true
+qiita_article_id: 3d5f829a5913549d3c36
+tags:
+- Linux
+- CentOS
+- oVirt
+title: '[CentOS][Linux] oVirt4.1で楽々(?)仮想マシン管理を始めてわかったこと'
+updated: '2017-05-25T11:31:13+09:00'
 
 ---
 [oVirt4.1で始める楽々(?)仮想マシン管理](http://qiita.com/sengoku/items/9dd2af723d791f0da4fb) で、oVirtをセットアップしました。  

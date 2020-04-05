@@ -1,19 +1,13 @@
 ---
-'created_at: ': '2017-10-17T13:26:02+09:00'
+date: '2017-10-17T13:26:02+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: CentOS
-      versions: []
-    - name: oVirt
-      versions: []
-  state: 0
-title: "[CentOS][oVirt] oVirt 4.1.3\u304B\u30894.1.6\u3078\u30A2\u30C3\u30D7\u30B0\
-  \u30EC\u30FC\u30C9"
-'updated_at: ': '2017-10-17T13:26:02+09:00'
+published: true
+qiita_article_id: dacabb302e93f8d4cc78
+tags:
+- CentOS
+- oVirt
+title: '[CentOS][oVirt] oVirt 4.1.3から4.1.6へアップグレード'
+updated: '2017-10-17T13:26:02+09:00'
 
 ---
 CentOS 7で動いているoVirtを4.1.3から4.1.6へアップグレードしました。  

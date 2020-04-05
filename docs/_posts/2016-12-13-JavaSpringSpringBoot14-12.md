@@ -1,21 +1,14 @@
 ---
-'created_at: ': '2016-12-13T21:47:55+09:00'
+date: '2016-12-13T21:47:55+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Java
-      versions: []
-    - name: spring
-      versions: []
-    - name: spring-boot
-      versions: []
-  state: 0
-title: "[Java][Spring] Spring Boot 1.4 -> 1.2 \u30C0\u30A6\u30F3\u30B0\u30EC\u30FC\
-  \u30C9\u30E1\u30E2"
-'updated_at: ': '2016-12-14T14:50:47+09:00'
+published: true
+qiita_article_id: d058b387e95858e16cf0
+tags:
+- Java
+- spring
+- spring-boot
+title: '[Java][Spring] Spring Boot 1.4 -> 1.2 ダウングレードメモ'
+updated: '2016-12-14T14:50:47+09:00'
 
 ---
 こんなことをするひとはいないと思いますが、せっかく苦しんだのでメモしておきます。  

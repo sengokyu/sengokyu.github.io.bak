@@ -1,19 +1,13 @@
 ---
-'created_at: ': '2020-03-28T14:43:34+09:00'
+date: '2020-03-28T14:43:34+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: GitHub
-      versions: []
-    - name: Jekyll
-      versions: []
-  state: 0
-title: "[GitHub] GitHub\u3092\u4F7F\u3063\u3066\u72EC\u81EA\u30C9\u30E1\u30A4\u30F3\
-  Web\u30B5\u30A4\u30C8\u3092\u516C\u958B\u3059\u308B\u65B9\u6CD5"
-'updated_at: ': '2020-03-28T15:16:06+09:00'
+published: true
+qiita_article_id: 39660d25e67debd7d131
+tags:
+- GitHub
+- Jekyll
+title: '[GitHub] GitHubを使って独自ドメインWebサイトを公開する方法'
+updated: '2020-03-28T15:16:06+09:00'
 
 ---
 先行記事多数ですが、自分のために書いています。お目汚し失礼します。  

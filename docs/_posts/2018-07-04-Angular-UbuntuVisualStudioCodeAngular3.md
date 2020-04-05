@@ -1,25 +1,16 @@
 ---
-'created_at: ': '2018-07-04T11:18:06+09:00'
+date: '2018-07-04T11:18:06+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Ubuntu
-      versions: []
-    - name: TypeScript
-      versions: []
-    - name: Angular
-      versions: []
-    - name: "\u5199\u7D4C"
-      versions: []
-    - name: VisualStudioCode
-      versions: []
-  state: 0
-title: "[Angular] \u30B3\u30F3\u30DD\u30FC\u30CD\u30F3\u30C8\u306E\u4F5C\u6210 - Ubuntu\u3068\
-  Visual Studio Code\u3067\u59CB\u3081\u308BAngular (3)"
-'updated_at: ': '2018-07-11T18:47:32+09:00'
+published: true
+qiita_article_id: 1ba9ef760594fdfb50a0
+tags:
+- Ubuntu
+- TypeScript
+- Angular
+- 写経
+- VisualStudioCode
+title: '[Angular] コンポーネントの作成 - UbuntuとVisual Studio Codeで始めるAngular (3)'
+updated: '2018-07-11T18:47:32+09:00'
 
 ---
 アプリケーションに簡単なタイトルを付けました。  
@@ -101,7 +92,7 @@ export class HeroesComponent implements OnInit {
   自動生成されたコードを削除し、
   コンポーネントの `hero` プロパティを参照します。
 -->
-{{hero}}
+{{"{{"}}hero}}
 ```  
   
 ### アプリケーションシェルのテンプレートを更新  
@@ -113,7 +104,7 @@ export class HeroesComponent implements OnInit {
 <!--
   自動生成されたコードを消して、<h1>だけにします。
 -->
-<h1>{{title}}</h1>
+<h1>{{"{{"}}title}}</h1>
 <!--
   Heroesコンポーネントを参照します。
   ここで記述するのは、`selector` に記載した名前です。
@@ -205,9 +196,9 @@ export class HeroesComponent implements OnInit {
 
   `hero`プロパティはクラスなので、クラスのプロパティを参照するようにします。
 -->
-<h2>{{hero.name}}の詳細</h2>
-<div><span>id: </span>{{hero.id}}</div>
-<div><span>名前: </span>{{hero.name}}</div>
+<h2>{{"{{"}}hero.name}}の詳細</h2>
+<div><span>id: </span>{{"{{"}}hero.id}}</div>
+<div><span>名前: </span>{{"{{"}}hero.name}}</div>
 ```  
   
 こんなんできました。  
@@ -232,8 +223,8 @@ export class HeroesComponent implements OnInit {
 
   `hero`プロパティはクラスなので、クラスのプロパティを参照するようにします。
 -->
-<h2>{{hero.name}}の詳細</h2>
-<div><span>id: </span>{{hero.id}}</div>
+<h2>{{"{{"}}hero.name}}の詳細</h2>
+<div><span>id: </span>{{"{{"}}hero.id}}</div>
 <div>
   <label>名前:
     <!--

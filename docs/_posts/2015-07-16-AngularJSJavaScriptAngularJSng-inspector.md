@@ -1,19 +1,13 @@
 ---
-'created_at: ': '2015-07-16T13:30:51+09:00'
+date: '2015-07-16T13:30:51+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Angular
-      versions: []
-    - name: ng-inspector
-      versions: []
-  state: 0
-title: "[AngularJS][JavaScript] AngularJS\u30A2\u30D7\u30EA\u958B\u767A\u3092\u697D\
-  \u306B\u3059\u308B\u30D6\u30E9\u30A6\u30B6\u62E1\u5F35\u300Cng-inspector\u300D"
-'updated_at: ': '2016-08-09T09:08:12+09:00'
+published: true
+qiita_article_id: 47abe2a3e8ae3d532f35
+tags:
+- Angular
+- ng-inspector
+title: '[AngularJS][JavaScript] AngularJSアプリ開発を楽にするブラウザ拡張「ng-inspector」'
+updated: '2016-08-09T09:08:12+09:00'
 
 ---
 以前にこんな記事を書きました。  

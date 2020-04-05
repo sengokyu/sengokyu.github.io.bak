@@ -1,18 +1,12 @@
 ---
-'created_at: ': '2018-12-13T12:50:14+09:00'
+date: '2018-12-13T12:50:14+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Swift
-      versions: []
-  state: 0
-title: "[Swift] \u4ED6\u306E\u8A00\u8A9E\u304B\u3089\u3084\u3063\u3066\u304D\u305F\
-  \u3072\u3068\uFF08\u81EA\u5206\uFF09\u306E\u305F\u3081\u306E\u3001\u62D9\u901FSwift\u30B3\
-  \u30FC\u30C9\u30EA\u30FC\u30C7\u30A3\u30F3\u30B0"
-'updated_at: ': '2018-12-13T12:50:14+09:00'
+published: true
+qiita_article_id: 194cc72f1e974da00332
+tags:
+- Swift
+title: '[Swift] 他の言語からやってきたひと（自分）のための、拙速Swiftコードリーディング'
+updated: '2018-12-13T12:50:14+09:00'
 
 ---
 初めてSwiftのコードを眺めたとき、なんなく想像ができるものがあれば、全くわからないものもあります。  

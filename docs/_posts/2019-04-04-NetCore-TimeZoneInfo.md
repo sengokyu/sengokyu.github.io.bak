@@ -1,23 +1,15 @@
 ---
-'created_at: ': '2019-04-04T20:56:11+09:00'
+date: '2019-04-04T20:56:11+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Windows
-      versions: []
-    - name: Linux
-      versions: []
-    - name: macos
-      versions: []
-    - name: .NETCore
-      versions: []
-  state: 0
-title: "[.Net Core] \u30AF\u30ED\u30B9\u30D7\u30E9\u30C3\u30C8\u30DB\u30FC\u30E0\u958B\
-  \u767A\u306E\u6CE8\u610F\u70B9 - TimeZoneInfo"
-'updated_at: ': '2019-04-04T20:56:11+09:00'
+published: true
+qiita_article_id: a9bb2e3e235872a575cf
+tags:
+- Windows
+- Linux
+- macos
+- .NETCore
+title: '[.Net Core] クロスプラットホーム開発の注意点 - TimeZoneInfo'
+updated: '2019-04-04T20:56:11+09:00'
 
 ---
 # TO;DR  

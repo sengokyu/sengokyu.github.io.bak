@@ -1,19 +1,13 @@
 ---
-'created_at: ': '2016-04-26T14:56:11+09:00'
+date: '2016-04-26T14:56:11+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Java
-      versions: []
-    - name: JCR
-      versions: []
-  state: 0
-title: "Java Content Repository API (JSR-170, JSR-283)\u3068\u4EF2\u826F\u304F\u3057\
-  \u305F\u3044"
-'updated_at: ': '2016-04-26T14:56:11+09:00'
+published: true
+qiita_article_id: f1a6928549682fc32b7f
+tags:
+- Java
+- JCR
+title: Java Content Repository API (JSR-170, JSR-283)と仲良くしたい
+updated: '2016-04-26T14:56:11+09:00'
 
 ---
 大嘘が書いてある可能性がありますので、薄目で読んでやってください。  

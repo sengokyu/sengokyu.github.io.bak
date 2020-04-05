@@ -1,19 +1,13 @@
 ---
-'created_at: ': '2017-07-05T14:13:41+09:00'
+date: '2017-07-05T14:13:41+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: PHP
-      versions: []
-    - name: CakePHP
-      versions: []
-  state: 0
-title: "[PHP] CakePHP - HABTM(HasAndBelongsToMay)\u3068\u4E2D\u9593\u30C6\u30FC\u30D6\
-  \u30EB\u306E\u7F60"
-'updated_at: ': '2017-07-05T14:13:41+09:00'
+published: true
+qiita_article_id: b55c0611c9b7491d876d
+tags:
+- PHP
+- CakePHP
+title: '[PHP] CakePHP - HABTM(HasAndBelongsToMay)と中間テーブルの罠'
+updated: '2017-07-05T14:13:41+09:00'
 
 ---
 # 前提 - 罠にはまるひと  

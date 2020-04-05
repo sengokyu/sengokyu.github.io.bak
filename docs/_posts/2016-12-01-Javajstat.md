@@ -1,17 +1,12 @@
 ---
-'created_at: ': '2016-12-01T12:15:28+09:00'
+date: '2016-12-01T12:15:28+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Java
-      versions: []
-  state: 0
-title: "Java\u306E\u30E1\u30E2\u30EA\u8A2D\u5B9A\u3068\u3001jstat\u306E\u51FA\u529B\
-  \u7D50\u679C\u306B\u95A2\u3059\u308B\u30E1\u30E2"
-'updated_at: ': '2018-06-28T12:07:21+09:00'
+published: true
+qiita_article_id: 03939ce47363f2b69803
+tags:
+- Java
+title: Javaのメモリ設定と、jstatの出力結果に関するメモ
+updated: '2018-06-28T12:07:21+09:00'
 
 ---
 # Java起動時のメモリ設定オプション  

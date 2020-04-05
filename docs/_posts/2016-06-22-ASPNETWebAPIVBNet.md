@@ -1,20 +1,14 @@
 ---
-'created_at: ': '2016-06-22T15:00:34+09:00'
+date: '2016-06-22T15:00:34+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: VB.Net
-      versions: []
-    - name: ASP.NET
-      versions: []
-    - name: ASP.NET_WebAPI
-      versions: []
-  state: 0
-title: "ASP.NET Web API\u4E8B\u59CB\u3081[VB.Net]"
-'updated_at: ': '2016-06-22T17:59:45+09:00'
+published: true
+qiita_article_id: 3b0cfaa226aeb0dcc319
+tags:
+- VB.Net
+- ASP.NET
+- ASP.NET_WebAPI
+title: ASP.NET Web API事始め[VB.Net]
+updated: '2016-06-22T17:59:45+09:00'
 
 ---
 Visual Studio 2013でASP.Net Web APIを始めました。  

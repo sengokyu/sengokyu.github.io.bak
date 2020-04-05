@@ -1,18 +1,12 @@
 ---
-'created_at: ': '2015-03-12T12:14:33+09:00'
+date: '2015-03-12T12:14:33+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Git
-      versions: []
-  state: 0
-title: "Windows\u7248Git\u3067\u3001\u76F4\u63A5\u63A5\u7D9A\u3067\u304D\u306A\u3044\
-  \u30EA\u30E2\u30FC\u30C8\u30EA\u30DD\u30B8\u30C8\u30EA\u306Bssh\u8E0F\u307F\u53F0\
-  \u30B5\u30FC\u30D0\u7D4C\u7531\u3067\u30A2\u30AF\u30BB\u30B9\u3059\u308B"
-'updated_at: ': '2015-03-12T12:18:41+09:00'
+published: true
+qiita_article_id: 86752e86388d9389a196
+tags:
+- Git
+title: Windows版Gitで、直接接続できないリモートリポジトリにssh踏み台サーバ経由でアクセスする
+updated: '2015-03-12T12:18:41+09:00'
 
 ---
 すでに同内容記事多数なのですが、自分用メモとして記載します。  

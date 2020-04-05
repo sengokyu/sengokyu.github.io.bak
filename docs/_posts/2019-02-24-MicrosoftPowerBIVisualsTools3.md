@@ -1,19 +1,13 @@
 ---
-'created_at: ': '2019-02-24T22:05:23+09:00'
+date: '2019-02-24T22:05:23+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: TypeScript
-      versions: []
-    - name: PowerBI
-      versions: []
-  state: 0
-title: "[Microsoft] PowerBI Visuals Tools \u30D0\u30FC\u30B8\u30E7\u30F33\u304C\u51FA\
-  \u307E\u3059"
-'updated_at: ': '2019-02-24T22:05:23+09:00'
+published: true
+qiita_article_id: ba0eb5aa6b44c5bc9a69
+tags:
+- TypeScript
+- PowerBI
+title: '[Microsoft] PowerBI Visuals Tools バージョン3が出ます'
+updated: '2019-02-24T22:05:23+09:00'
 
 ---
 PowerBI Visuals Tools 3.0 が出ます！  

@@ -1,17 +1,12 @@
 ---
-'created_at: ': '2014-11-17T22:35:16+09:00'
+date: '2014-11-17T22:35:16+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Angular
-      versions: []
-  state: 0
-title: "AngularJS\u306E\u30C9\u30AD\u30E5\u30E1\u30F3\u30C8\u3092\u8AAD\u3080\u524D\
-  \u306B\u77E5\u3063\u3066\u304A\u304D\u305F\u3044\u3053\u3068\u30E1\u30E2"
-'updated_at: ': '2019-03-06T10:35:48+09:00'
+published: true
+qiita_article_id: 8cb3e2be0e252aa419d7
+tags:
+- Angular
+title: AngularJSのドキュメントを読む前に知っておきたいことメモ
+updated: '2019-03-06T10:35:48+09:00'
 
 ---
 # このメモの内容  
@@ -48,7 +43,7 @@ ng-controller属性にコントローラ名を書いていると思います。�
 ****  
 ```html:
 <ANY ng-controller="SomeCtrl">
-  {{someModel}}
+  {{"{{"}}someModel}}
 </ANY>
 ```  
   
@@ -57,7 +52,7 @@ controller-as記法を使ったやり方：
 ****  
 ```html:
 <ANY ng-contoller="SomeCtrl as some">
-  {{some.someModel}}
+  {{"{{"}}some.someModel}}
 </ANY>
 ```  
   

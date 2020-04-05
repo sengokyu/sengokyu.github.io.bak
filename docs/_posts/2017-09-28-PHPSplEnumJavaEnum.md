@@ -1,17 +1,12 @@
 ---
-'created_at: ': '2017-09-28T20:31:16+09:00'
+date: '2017-09-28T20:31:16+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: PHP
-      versions: []
-  state: 0
-title: "[PHP] SplEnum\u304C\u672A\u3060\u5B9F\u9A13\u7684\u306A\u306E\u3067\u3001\
-  Java\u3063\u307D\u3044Enum\u30AF\u30E9\u30B9\u3092\u4F5C\u3063\u305F"
-'updated_at: ': '2017-12-22T16:05:21+09:00'
+published: true
+qiita_article_id: 3ca6a7d8c2b7135ef9bd
+tags:
+- PHP
+title: '[PHP] SplEnumが未だ実験的なので、JavaっぽいEnumクラスを作った'
+updated: '2017-12-22T16:05:21+09:00'
 
 ---
 **2017/10/3追記**  

@@ -1,17 +1,12 @@
 ---
-'created_at: ': '2016-03-16T16:16:28+09:00'
+date: '2016-03-16T16:16:28+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: CentOS
-      versions: []
-  state: 0
-title: "CentOS 7\u306Eminimal\u30A4\u30F3\u30B9\u30C8\u30FC\u30EB\u304B\u3089\u3055\
-  \u3089\u306BRPM\u3092\u524A\u308B"
-'updated_at: ': '2016-03-16T16:16:28+09:00'
+published: true
+qiita_article_id: bd794af440e3a5542d5f
+tags:
+- CentOS
+title: CentOS 7のminimalインストールからさらにRPMを削る
+updated: '2016-03-16T16:16:28+09:00'
 
 ---
 CentOS 7 minimalインストールから、kvmホストとして使用できる最小限を目指します。  

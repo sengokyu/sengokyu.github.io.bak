@@ -1,19 +1,13 @@
 ---
-'created_at: ': '2017-10-01T13:15:38+09:00'
+date: '2017-10-01T13:15:38+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: iPhone
-      versions: []
-    - name: iOS
-      versions: []
-  state: 0
-title: "[iPhone][iPad][iOS] \u5BB6\u65CF\u3067\u97F3\u697D\u30D5\u30A1\u30A4\u30EB\
-  \u3092\u5171\u6709\u3059\u308B\u65B9\u6CD5\u3092\u8003\u3048\u308B"
-'updated_at: ': '2017-10-01T13:15:38+09:00'
+published: true
+qiita_article_id: 071daed92f2e4898e825
+tags:
+- iPhone
+- iOS
+title: '[iPhone][iPad][iOS] 家族で音楽ファイルを共有する方法を考える'
+updated: '2017-10-01T13:15:38+09:00'
 
 ---
 # ストーリー  

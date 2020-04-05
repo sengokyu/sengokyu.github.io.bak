@@ -1,21 +1,14 @@
 ---
-'created_at: ': '2017-12-15T13:33:18+09:00'
+date: '2017-12-15T13:33:18+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Windows
-      versions: []
-    - name: Microsoft
-      versions: []
-    - name: PowerShell
-      versions: []
-  state: 0
-title: "Windows Server 2016 Core\u30A4\u30F3\u30B9\u30C8\u30FC\u30EB\u3092PowerShell\u3067\
-  \u8A2D\u5B9A\u3059\u308B"
-'updated_at: ': '2017-12-15T13:33:18+09:00'
+published: true
+qiita_article_id: 213bb6aa87b4b115cdb3
+tags:
+- Windows
+- Microsoft
+- PowerShell
+title: Windows Server 2016 CoreインストールをPowerShellで設定する
+updated: '2017-12-15T13:33:18+09:00'
 
 ---
 Windows Server 2016から、初期インストール時にあえて選ばないとGUIが付いてこないようになりました。  

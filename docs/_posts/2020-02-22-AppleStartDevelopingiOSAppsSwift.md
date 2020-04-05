@@ -1,18 +1,13 @@
 ---
-'created_at: ': '2020-02-22T18:52:47+09:00'
+date: '2020-02-22T18:52:47+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: iOS
-      versions: []
-    - name: Swift
-      versions: []
-  state: 0
-title: "[Apple] \u5199\u7D4C Start Developing iOS Apps (Swift)"
-'updated_at: ': '2020-02-23T12:34:07+09:00'
+published: true
+qiita_article_id: ba44da217e48d8b58fc5
+tags:
+- iOS
+- Swift
+title: '[Apple] 写経 Start Developing iOS Apps (Swift)'
+updated: '2020-02-23T12:34:07+09:00'
 
 ---
 Apple公式ドキュメント [Start Developing iOS Apps (Swift)](https://developer.apple.com/library/archive/referencelibrary/GettingStarted/DevelopiOSAppsSwift/BuildABasicUI.html#//apple_ref/doc/uid/TP40015214-CH5-SW1) の一部を写経します。  

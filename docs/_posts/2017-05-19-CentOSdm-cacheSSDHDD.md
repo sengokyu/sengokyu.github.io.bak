@@ -1,21 +1,14 @@
 ---
-'created_at: ': '2017-05-19T19:26:43+09:00'
+date: '2017-05-19T19:26:43+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Linux
-      versions: []
-    - name: CentOS
-      versions: []
-    - name: dm-cache
-      versions: []
-  state: 0
-title: "[CentOS] dm-cache\u3092\u4F7F\u7528\u3057\u3066SSD\u3092HDD\u306E\u30AD\u30E3\
-  \u30C3\u30B7\u30E5\u306B\u3059\u308B"
-'updated_at: ': '2017-05-19T19:27:31+09:00'
+published: true
+qiita_article_id: e85526bb7d578aee295a
+tags:
+- Linux
+- CentOS
+- dm-cache
+title: '[CentOS] dm-cacheを使用してSSDをHDDのキャッシュにする'
+updated: '2017-05-19T19:27:31+09:00'
 
 ---
 # 環境  

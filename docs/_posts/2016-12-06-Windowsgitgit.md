@@ -1,19 +1,13 @@
 ---
-'created_at: ': '2016-12-06T16:14:49+09:00'
+date: '2016-12-06T16:14:49+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Windows
-      versions: []
-    - name: Git
-      versions: []
-  state: 0
-title: "[Windows][git] git\u30C7\u30FC\u30E2\u30F3\u3092\u30B5\u30FC\u30D3\u30B9\u3068\
-  \u3057\u3066\u52D5\u304B\u3059"
-'updated_at: ': '2016-12-06T16:14:49+09:00'
+published: true
+qiita_article_id: 7ea67530822ca47078a1
+tags:
+- Windows
+- Git
+title: '[Windows][git] gitデーモンをサービスとして動かす'
+updated: '2016-12-06T16:14:49+09:00'
 
 ---
 Windowsでｇｉｔデーモンを動かし、git://プロトコルでアクセスできるようにする手順です。  

@@ -1,23 +1,15 @@
 ---
-'created_at: ': '2015-06-08T13:18:40+09:00'
+date: '2015-06-08T13:18:40+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Excel
-      versions: []
-    - name: VBA
-      versions: []
-    - name: ExcelVBA
-      versions: []
-    - name: Visio
-      versions: []
-  state: 0
-title: "Visio\u30D5\u30A1\u30A4\u30EB\u5185\u306E\u56F3\u5F62\u3092\u5217\u6319\u3059\
-  \u308B\u3002Excel VBA\u3092\u4F7F\u3063\u3066\u3002"
-'updated_at: ': '2015-06-08T13:20:49+09:00'
+published: true
+qiita_article_id: 6163a38f0493065905eb
+tags:
+- Excel
+- VBA
+- ExcelVBA
+- Visio
+title: Visioファイル内の図形を列挙する。Excel VBAを使って。
+updated: '2015-06-08T13:20:49+09:00'
 
 ---
 # 概要  

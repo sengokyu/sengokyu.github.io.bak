@@ -1,22 +1,15 @@
 ---
-'created_at: ': '2016-11-22T10:40:06+09:00'
+date: '2016-11-22T10:40:06+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: MySQL
-      versions: []
-    - name: jpa
-      versions: []
-    - name: spring-boot
-      versions: []
-  state: 0
-title: "[Java][Spring Boot][MySQL] \u30C6\u30FC\u30D6\u30EB\u540D/\u5217\u540D\u7B49\
-  \u306E\u5927\u6587\u5B57\u5C0F\u6587\u5B57\u3092\u533A\u5225\u3059\u308B\u65B9\u6CD5\
-  \ - NetBeans\u3067\u59CB\u3081\u308BSpring Boot (9)"
-'updated_at: ': '2016-11-22T10:40:06+09:00'
+published: true
+qiita_article_id: 51ef99ec73b6593d9860
+tags:
+- MySQL
+- jpa
+- spring-boot
+title: '[Java][Spring Boot][MySQL] テーブル名/列名等の大文字小文字を区別する方法 - NetBeansで始めるSpring Boot
+  (9)'
+updated: '2016-11-22T10:40:06+09:00'
 
 ---
 # 環境  

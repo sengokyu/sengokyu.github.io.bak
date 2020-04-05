@@ -1,21 +1,14 @@
 ---
-'created_at: ': '2015-03-25T16:20:50+09:00'
+date: '2015-03-25T16:20:50+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Java
-      versions: []
-    - name: JUnit
-      versions: []
-    - name: JAXB
-      versions: []
-  state: 0
-title: "junit-addons\u3092\u5165\u308C\u308B\u3068JAXB\u304C\u60B2\u9CF4\u3092\u3042\
-  \u3052\u308B"
-'updated_at: ': '2015-03-25T16:20:50+09:00'
+published: true
+qiita_article_id: 543e3ee309cb5705c08c
+tags:
+- Java
+- JUnit
+- JAXB
+title: junit-addonsを入れるとJAXBが悲鳴をあげる
+updated: '2015-03-25T16:20:50+09:00'
 
 ---
 [JUnit-addons]:(http://sourceforge.net/projects/junit-addons/) を入れると、JAXBのunmarshalを呼んでいるところでこんな例外が発生します。  

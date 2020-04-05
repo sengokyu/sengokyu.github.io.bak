@@ -1,19 +1,13 @@
 ---
-'created_at: ': '2019-10-04T13:34:51+09:00'
+date: '2019-10-04T13:34:51+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Azure
-      versions: []
-    - name: AzureBastion
-      versions: []
-  state: 0
-title: "[Microsoft] Azure Bastion\u3092 az \u30B3\u30DE\u30F3\u30C9\u30E9\u30A4\u30F3\
-  \u304B\u3089\u4F5C\u6210\u3059\u308B"
-'updated_at: ': '2019-11-22T21:21:25+09:00'
+published: true
+qiita_article_id: 9c82852d13dcc5c6781d
+tags:
+- Azure
+- AzureBastion
+title: '[Microsoft] Azure Bastionを az コマンドラインから作成する'
+updated: '2019-11-22T21:21:25+09:00'
 
 ---
 # これはなに？  

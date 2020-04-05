@@ -1,20 +1,14 @@
 ---
-'created_at: ': '2018-11-08T14:59:17+09:00'
+date: '2018-11-08T14:59:17+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Angular
-      versions: []
-    - name: FontAwesome
-      versions: []
-    - name: MaterialDesign
-      versions: []
-  state: 0
-title: "Angular Material + Font Awesome\u4F7F\u3044\u65B9\u30E1\u30E2"
-'updated_at: ': '2018-11-08T14:59:38+09:00'
+published: true
+qiita_article_id: 57261ad37e925b6c5637
+tags:
+- Angular
+- FontAwesome
+- MaterialDesign
+title: Angular Material + Font Awesome使い方メモ
+updated: '2018-11-08T14:59:38+09:00'
 
 ---
 [Angular Material](https://material.angular.io/)  

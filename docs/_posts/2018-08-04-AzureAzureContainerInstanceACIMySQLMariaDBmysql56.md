@@ -1,23 +1,15 @@
 ---
-'created_at: ': '2018-08-04T18:57:55+09:00'
+date: '2018-08-04T18:57:55+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: MySQL
-      versions: []
-    - name: Azure
-      versions: []
-    - name: mariadb
-      versions: []
-    - name: Docker
-      versions: []
-  state: 0
-title: "[Azure] Azure Container Instance(ACI)\u3067MySQL/MariaDB\u3092\u4F7F\u3046\
-  \u3068\u304D\u306Fmysql:5.6\u3092\u4F7F\u3048"
-'updated_at: ': '2018-08-07T19:55:45+09:00'
+published: true
+qiita_article_id: c9979717f9796be0f663
+tags:
+- MySQL
+- Azure
+- mariadb
+- Docker
+title: '[Azure] Azure Container Instance(ACI)でMySQL/MariaDBを使うときはmysql:5.6を使え'
+updated: '2018-08-07T19:55:45+09:00'
 
 ---
 **【追記】**  

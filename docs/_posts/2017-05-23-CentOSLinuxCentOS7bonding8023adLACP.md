@@ -1,19 +1,13 @@
 ---
-'created_at: ': '2017-05-23T10:38:40+09:00'
+date: '2017-05-23T10:38:40+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Linux
-      versions: []
-    - name: CentOS
-      versions: []
-  state: 0
-title: "[CentOS][Linux] CentOS 7\u306B\u304A\u3051\u308B\u30CD\u30C3\u30C8\u30EF\u30FC\
-  \u30AFbonding(802.3ad LACP)\u306E\u8A2D\u5B9A"
-'updated_at: ': '2017-05-23T10:38:40+09:00'
+published: true
+qiita_article_id: 645f947634cc725303dc
+tags:
+- Linux
+- CentOS
+title: '[CentOS][Linux] CentOS 7におけるネットワークbonding(802.3ad LACP)の設定'
+updated: '2017-05-23T10:38:40+09:00'
 
 ---
 # はじめに  

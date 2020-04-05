@@ -1,17 +1,12 @@
 ---
-'created_at: ': '2019-10-16T11:24:22+09:00'
+date: '2019-10-16T11:24:22+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Azure
-      versions: []
-  state: 0
-title: "[Microsoft] Azure \u4EEE\u60F3\u30DE\u30B7\u30F3(VM)\u30B7\u30EA\u30FC\u30BA\
-  \u307E\u3068\u3081 2019-12\u7248"
-'updated_at: ': '2019-12-28T09:20:46+09:00'
+published: true
+qiita_article_id: 211f09e342d7690613cf
+tags:
+- Azure
+title: '[Microsoft] Azure 仮想マシン(VM)シリーズまとめ 2019-12版'
+updated: '2019-12-28T09:20:46+09:00'
 
 ---
 Azureの仮想マシンシリーズはいくつもあります。  

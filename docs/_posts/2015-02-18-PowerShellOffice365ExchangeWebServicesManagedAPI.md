@@ -1,21 +1,14 @@
 ---
-'created_at: ': '2015-02-18T18:15:24+09:00'
+date: '2015-02-18T18:15:24+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: PowerShell
-      versions: []
-    - name: Office365
-      versions: []
-    - name: Exchange
-      versions: []
-  state: 0
-title: "PowerShell\u304B\u3089Office365\u306EExchange Web Services Managed API\u3092\
-  \u4F7F\u7528\u3057\u3066\u30E1\u30FC\u30EB\u3092\u9001\u308B"
-'updated_at: ': '2015-02-18T18:15:24+09:00'
+published: true
+qiita_article_id: 07371a9bcf97b1b96cad
+tags:
+- PowerShell
+- Office365
+- Exchange
+title: PowerShellからOffice365のExchange Web Services Managed APIを使用してメールを送る
+updated: '2015-02-18T18:15:24+09:00'
 
 ---
 Exchange Web Services Managed APIの練習です。  

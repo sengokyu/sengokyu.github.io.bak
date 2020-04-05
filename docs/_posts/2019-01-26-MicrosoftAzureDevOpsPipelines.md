@@ -1,23 +1,15 @@
 ---
-'created_at: ': '2019-01-26T19:07:47+09:00'
+date: '2019-01-26T19:07:47+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Azure
-      versions: []
-    - name: CI
-      versions: []
-    - name: AzureDevOps
-      versions: []
-    - name: AzurePipelines
-      versions: []
-  state: 0
-title: "[Microsoft] Azure DevOps Pipelines \u8A2D\u5B9A\u30D5\u30A1\u30A4\u30EB\u306E\
-  \u66F8\u304D\u65B9"
-'updated_at: ': '2019-10-09T10:53:36+09:00'
+published: true
+qiita_article_id: e832c3f1c1c8fbb98415
+tags:
+- Azure
+- CI
+- AzureDevOps
+- AzurePipelines
+title: '[Microsoft] Azure DevOps Pipelines 設定ファイルの書き方'
+updated: '2019-10-09T10:53:36+09:00'
 
 ---
 Azure Pipelinesの動作を設定するYAMLファイルの書き方を完全に理解したので、忘れないうちにまとめておきます。  
@@ -113,7 +105,7 @@ parameters:
   target: デフォルト値
 
 steps:
-- script: npm run build ${{ parameters.target }}
+- script: npm run build ${{"{{"}} parameters.target }}
 ```  
   
   
@@ -202,6 +194,6 @@ parameters:
 jobs:
 - job: EachEnvironment
   pool:
-    vmImage: ${{ parameters.machine }}
+    vmImage: ${{"{{"}} parameters.machine }}
 ```  
   

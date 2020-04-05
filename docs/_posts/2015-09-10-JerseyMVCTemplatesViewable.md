@@ -1,23 +1,15 @@
 ---
-'created_at: ': '2015-09-10T20:54:05+09:00'
+date: '2015-09-10T20:54:05+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Java
-      versions: []
-    - name: JAX-RS
-      versions: []
-    - name: JavaEE
-      versions: []
-    - name: jersey
-      versions: []
-  state: 0
-title: "\u3010Jersey MVC Templates\u3011Viewable\u3092\u8FD4\u3059\u30EA\u30BD\u30FC\
-  \u30B9\u3092\u30C6\u30B9\u30C8\u3059\u308B"
-'updated_at: ': '2016-01-15T15:28:05+09:00'
+published: true
+qiita_article_id: cafbad752bdd306aee95
+tags:
+- Java
+- JAX-RS
+- JavaEE
+- jersey
+title: 【Jersey MVC Templates】Viewableを返すリソースをテストする
+updated: '2016-01-15T15:28:05+09:00'
 
 ---
 # 概要  

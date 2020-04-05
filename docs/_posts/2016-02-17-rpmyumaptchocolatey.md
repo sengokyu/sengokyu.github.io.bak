@@ -1,20 +1,13 @@
 ---
-'created_at: ': '2016-02-17T10:54:21+09:00'
+date: '2016-02-17T10:54:21+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Windows
-      versions: []
-    - name: Linux
-      versions: []
-  state: 0
-title: "[rpm][yum][apt][chocolatey]\u30D1\u30C3\u30B1\u30FC\u30B8\u7BA1\u7406\u30B7\
-  \u30B9\u30C6\u30E0\u3067\u3088\u304F\u4F7F\u3046\u30B3\u30DE\u30F3\u30C9\u307E\u3068\
-  \u3081"
-'updated_at: ': '2018-04-12T10:10:22+09:00'
+published: true
+qiita_article_id: c92056fc45bc3f64f4ae
+tags:
+- Windows
+- Linux
+title: '[rpm][yum][apt][chocolatey]パッケージ管理システムでよく使うコマンドまとめ'
+updated: '2018-04-12T10:10:22+09:00'
 
 ---
 複数のパッケージ管理システムを使っていると、こっちのシステムではどうやるんだっけ？  

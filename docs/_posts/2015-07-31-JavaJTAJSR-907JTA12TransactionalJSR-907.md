@@ -1,21 +1,14 @@
 ---
-'created_at: ': '2015-07-31T17:13:01+09:00'
+date: '2015-07-31T17:13:01+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Java
-      versions: []
-    - name: JavaEE
-      versions: []
-    - name: JTA
-      versions: []
-  state: 0
-title: "[Java][JTA][JSR-907] JTA 1.2 Transactional\u30A2\u30CE\u30C6\u30FC\u30B7\u30E7\
-  \u30F3\u306B\u3064\u3044\u3066\uFF08JSR-907\u62FE\u3044\u8AAD\u307F\uFF09"
-'updated_at: ': '2017-01-13T11:46:19+09:00'
+published: true
+qiita_article_id: 69ed0888964dd505d348
+tags:
+- Java
+- JavaEE
+- JTA
+title: '[Java][JTA][JSR-907] JTA 1.2 Transactionalアノテーションについて（JSR-907拾い読み）'
+updated: '2017-01-13T11:46:19+09:00'
 
 ---
 CDI管理ビーンに付けるだけでトランザクション処理してくれる``@Transactional``アノテーションについてです。  

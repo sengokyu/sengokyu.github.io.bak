@@ -1,23 +1,15 @@
 ---
-'created_at: ': '2016-09-19T15:50:26+09:00'
+date: '2016-09-19T15:50:26+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: JavaScript
-      versions: []
-    - name: test
-      versions: []
-    - name: Selenium
-      versions: []
-    - name: Protractor
-      versions: []
-  state: 0
-title: "[Protoractor][E2E\u30C6\u30B9\u30C8] \u30D6\u30E9\u30A6\u30B6\u3092\u4F7F\u7528\
-  \u3057\u305F\u30C6\u30B9\u30C8\u3092\u884C\u3046"
-'updated_at: ': '2016-09-19T16:02:30+09:00'
+published: true
+qiita_article_id: 96dfd8f555f58b655aa2
+tags:
+- JavaScript
+- test
+- Selenium
+- Protractor
+title: '[Protoractor][E2Eテスト] ブラウザを使用したテストを行う'
+updated: '2016-09-19T16:02:30+09:00'
 
 ---
 # 環境  

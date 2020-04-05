@@ -1,21 +1,14 @@
 ---
-'created_at: ': '2018-07-05T18:57:44+09:00'
+date: '2018-07-05T18:57:44+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: JavaScript
-      versions: []
-    - name: TypeScript
-      versions: []
-    - name: Angular
-      versions: []
-  state: 0
-title: "[Angular] JavaScript\u30E2\u30B8\u30E5\u30FC\u30EB vs. NgModule - @NgModule\u3068\
-  \u306F\u4F55\u304B (2)"
-'updated_at: ': '2018-07-06T09:24:21+09:00'
+published: true
+qiita_article_id: 52085ad12d85193d65d6
+tags:
+- JavaScript
+- TypeScript
+- Angular
+title: '[Angular] JavaScriptモジュール vs. NgModule - @NgModuleとは何か (2)'
+updated: '2018-07-06T09:24:21+09:00'
 
 ---
 @NgModuleがなんなのかを知るにあたり、いくつか前提知識が必要となります。  

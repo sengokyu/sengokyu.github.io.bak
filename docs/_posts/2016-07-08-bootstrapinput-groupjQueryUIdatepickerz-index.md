@@ -1,22 +1,14 @@
 ---
-'created_at: ': '2016-07-08T10:07:18+09:00'
+date: '2016-07-08T10:07:18+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: jQuery
-      versions: []
-    - name: Bootstrap
-      versions: []
-    - name: jquery.ui
-      versions: []
-  state: 0
-title: "bootstrap\u30E2\u30FC\u30C0\u30EB\u30C0\u30A4\u30A2\u30ED\u30B0\u4E0A\u306B\
-  input-group\u3092\u914D\u7F6E\u3059\u308B\u3068\u3001jQuery UI datepicker\u304C\
-  z-index\u306E\u8A08\u7B97\u3092\u9593\u9055\u3048\u308B"
-'updated_at: ': '2016-07-08T10:07:18+09:00'
+published: true
+qiita_article_id: 536b16ab5c6fc52aa823
+tags:
+- jQuery
+- Bootstrap
+- jquery.ui
+title: bootstrapモーダルダイアログ上にinput-groupを配置すると、jQuery UI datepickerがz-indexの計算を間違える
+updated: '2016-07-08T10:07:18+09:00'
 
 ---
 jQuery UI便利ですか？便利ですね！！  

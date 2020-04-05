@@ -1,25 +1,16 @@
 ---
-'created_at: ': '2017-12-18T15:03:36+09:00'
+date: '2017-12-18T15:03:36+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: FreeBSD
-      versions: []
-    - name: zabbix
-      versions: []
-    - name: "\u30CD\u30C3\u30C8\u30EF\u30FC\u30AF"
-      versions: []
-    - name: "\u904B\u7528"
-      versions: []
-    - name: "\u76E3\u8996"
-      versions: []
-  state: 0
-title: "[FreeBSD] FreeBSD 11.1\u306BZabbix 3.4\u3092\u30A4\u30F3\u30B9\u30C8\u30FC\
-  \u30EB\u3057\u305F\u79C1\u7684\u306A\u8A18\u9332"
-'updated_at: ': '2017-12-19T13:09:45+09:00'
+published: true
+qiita_article_id: 6ec991b7b4b4c3495233
+tags:
+- FreeBSD
+- zabbix
+- ネットワーク
+- 運用
+- 監視
+title: '[FreeBSD] FreeBSD 11.1にZabbix 3.4をインストールした私的な記録'
+updated: '2017-12-19T13:09:45+09:00'
 
 ---
 Zabbixを動かそうと、久方ぶりにFreeBSD 11.1をインストールしました。  

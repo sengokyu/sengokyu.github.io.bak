@@ -1,19 +1,13 @@
 ---
-'created_at: ': '2016-09-17T20:17:51+09:00'
+date: '2016-09-17T20:17:51+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Redmine
-      versions: []
-    - name: FreeBSD
-      versions: []
-  state: 0
-title: "[FreeBSD][Redmine] FreeBSD\u7528Redmine\u8D77\u52D5rc\u30B9\u30AF\u30EA\u30D7\
-  \u30C8"
-'updated_at: ': '2016-09-17T20:17:51+09:00'
+published: true
+qiita_article_id: b93c57cff7245d7070fc
+tags:
+- Redmine
+- FreeBSD
+title: '[FreeBSD][Redmine] FreeBSD用Redmine起動rcスクリプト'
+updated: '2016-09-17T20:17:51+09:00'
 
 ---
 軽く検索したけれど、見つからなかったので備忘録です。  

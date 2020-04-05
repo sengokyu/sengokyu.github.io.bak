@@ -1,20 +1,13 @@
 ---
-'created_at: ': '2016-03-22T18:34:41+09:00'
+date: '2016-03-22T18:34:41+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: PowerShell
-      versions: []
-    - name: Pester
-      versions: []
-  state: 0
-title: "PowerShell\u30D7\u30ED\u30B0\u30E9\u30E0\u306E\u304A\u3059\u3059\u3081\u30C7\
-  \u30A3\u30EC\u30AF\u30C8\u30EA\u69CB\u6210\u3068\u30E6\u30CB\u30C3\u30C8\u30C6\u30B9\
-  \u30C8\u30E1\u30E2"
-'updated_at: ': '2016-03-22T18:45:09+09:00'
+published: true
+qiita_article_id: 1292f032be5ecc699c19
+tags:
+- PowerShell
+- Pester
+title: PowerShellプログラムのおすすめディレクトリ構成とユニットテストメモ
+updated: '2016-03-22T18:45:09+09:00'
 
 ---
 # ユニットテストリンク集  

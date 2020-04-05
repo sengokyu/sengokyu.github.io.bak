@@ -1,25 +1,16 @@
 ---
-'created_at: ': '2016-11-10T14:36:45+09:00'
+date: '2016-11-10T14:36:45+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Java
-      versions: []
-    - name: spring
-      versions: []
-    - name: jpa
-      versions: []
-    - name: spring-boot
-      versions: []
-    - name: spring-data-jpa
-      versions: []
-  state: 0
-title: "[Java][Spring Boot][JPA] \u30C7\u30FC\u30BF\u30D9\u30FC\u30B9\u3092\u4F7F\u3046\
-  \ - NetBeans\u3067\u59CB\u3081\u308BSpring Boot (6)"
-'updated_at: ': '2016-11-17T19:57:54+09:00'
+published: true
+qiita_article_id: 2424c59f3b4ac94a1cb0
+tags:
+- Java
+- spring
+- jpa
+- spring-boot
+- spring-data-jpa
+title: '[Java][Spring Boot][JPA] データベースを使う - NetBeansで始めるSpring Boot (6)'
+updated: '2016-11-17T19:57:54+09:00'
 
 ---
 # 概要  

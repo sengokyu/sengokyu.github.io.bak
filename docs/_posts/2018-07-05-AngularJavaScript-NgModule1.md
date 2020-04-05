@@ -1,21 +1,14 @@
 ---
-'created_at: ': '2018-07-05T18:10:15+09:00'
+date: '2018-07-05T18:10:15+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: JavaScript
-      versions: []
-    - name: TypeScript
-      versions: []
-    - name: Angular
-      versions: []
-  state: 0
-title: "[Angular] JavaScript\u306E\u30E2\u30B8\u30E5\u30FC\u30EB - @NgModule\u3068\
-  \u306F\u4F55\u304B (1)"
-'updated_at: ': '2018-07-05T18:10:15+09:00'
+published: true
+qiita_article_id: a62cb8d75733b0321706
+tags:
+- JavaScript
+- TypeScript
+- Angular
+title: '[Angular] JavaScriptのモジュール - @NgModuleとは何か (1)'
+updated: '2018-07-05T18:10:15+09:00'
 
 ---
 `@NgModule`がなんなのかを知るにあたり、いくつか前提知識が必要となります。  

@@ -1,23 +1,15 @@
 ---
-'created_at: ': '2018-07-30T15:19:14+09:00'
+date: '2018-07-30T15:19:14+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: FreeBSD
-      versions: []
-    - name: yamaha
-      versions: []
-    - name: "\u30BB\u30AD\u30E5\u30EA\u30C6\u30A3"
-      versions: []
-    - name: suricata
-      versions: []
-  state: 0
-title: "[IDS][Suricata] FreeBSD\u3067\u59CB\u3081\u308B\u4FB5\u5165\u691C\u77E5\u751F\
-  \u6D3B"
-'updated_at: ': '2018-07-30T15:37:43+09:00'
+published: true
+qiita_article_id: ca0e227410500b9a69ec
+tags:
+- FreeBSD
+- yamaha
+- セキュリティ
+- suricata
+title: '[IDS][Suricata] FreeBSDで始める侵入検知生活'
+updated: '2018-07-30T15:37:43+09:00'
 
 ---
 FreeBSDを使って、侵入(Intrusion)検知(Detection)生活(~~Seikatsu~~System)していきます。  

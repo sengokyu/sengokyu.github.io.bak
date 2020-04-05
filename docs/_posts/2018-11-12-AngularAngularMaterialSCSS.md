@@ -1,22 +1,15 @@
 ---
-'created_at: ': '2018-11-12T18:57:37+09:00'
+date: '2018-11-12T18:57:37+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: CSS
-      versions: []
-    - name: scss
-      versions: []
-    - name: Angular
-      versions: []
-    - name: MaterialDesign
-      versions: []
-  state: 0
-title: "[Angular] Angular Material\u3092\u4F7F\u3046\u305F\u3081\u306ESCSS\u5165\u9580"
-'updated_at: ': '2018-11-12T18:57:37+09:00'
+published: true
+qiita_article_id: 35a73dfb4bd76ed5e5c1
+tags:
+- CSS
+- scss
+- Angular
+- MaterialDesign
+title: '[Angular] Angular Materialを使うためのSCSS入門'
+updated: '2018-11-12T18:57:37+09:00'
 
 ---
 Angular Materialでテーマを作りたいと思い立ちました。  

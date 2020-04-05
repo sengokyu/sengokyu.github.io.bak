@@ -1,20 +1,14 @@
 ---
-'created_at: ': '2016-10-28T16:54:57+09:00'
+date: '2016-10-28T16:54:57+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Java
-      versions: []
-    - name: NetBeans
-      versions: []
-    - name: spring-boot
-      versions: []
-  state: 0
-title: "[Java][Spring Boot] NetBeans\u3067\u59CB\u3081\u308BSpring Boot"
-'updated_at: ': '2016-10-28T16:54:57+09:00'
+published: true
+qiita_article_id: 735cb9639fd8e0686081
+tags:
+- Java
+- NetBeans
+- spring-boot
+title: '[Java][Spring Boot] NetBeansで始めるSpring Boot'
+updated: '2016-10-28T16:54:57+09:00'
 
 ---
 NetBeansを使用して、Spring Bootアプリケーションを作成していきます。  

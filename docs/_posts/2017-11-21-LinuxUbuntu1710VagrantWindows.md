@@ -1,23 +1,15 @@
 ---
-'created_at: ': '2017-11-21T14:19:38+09:00'
+date: '2017-11-21T14:19:38+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Windows
-      versions: []
-    - name: Ubuntu
-      versions: []
-    - name: Vagrant
-      versions: []
-    - name: ubuntu17.10
-      versions: []
-  state: 0
-title: "[Linux] Ubuntu 17.10\u30DB\u30B9\u30C8\u306BVagrant\u3092\u5165\u308C\u3066\
-  Windows\u3092\u52D5\u304B\u3059"
-'updated_at: ': '2019-03-20T12:12:32+09:00'
+published: true
+qiita_article_id: 8572de2146994fac2aeb
+tags:
+- Windows
+- Ubuntu
+- Vagrant
+- ubuntu17.10
+title: '[Linux] Ubuntu 17.10ホストにVagrantを入れてWindowsを動かす'
+updated: '2019-03-20T12:12:32+09:00'
 
 ---
 # はじめに  

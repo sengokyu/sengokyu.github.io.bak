@@ -1,24 +1,16 @@
 ---
-'created_at: ': '2017-07-26T14:35:24+09:00'
+date: '2017-07-26T14:35:24+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: PHP
-      versions: []
-    - name: Symfony
-      versions: []
-    - name: doctrine
-      versions: []
-    - name: Symfony2
-      versions: []
-    - name: Silex
-      versions: []
-  state: 0
-title: "[PHP][Silex][Doctrine] Silex 2\u3078Doctrine ORM\u3092\u5C0E\u5165\u3059\u308B"
-'updated_at: ': '2017-07-26T14:38:44+09:00'
+published: true
+qiita_article_id: 4f3a6c84a255297ab9a5
+tags:
+- PHP
+- Symfony
+- doctrine
+- Symfony2
+- Silex
+title: '[PHP][Silex][Doctrine] Silex 2へDoctrine ORMを導入する'
+updated: '2017-07-26T14:38:44+09:00'
 
 ---
 Silex 2には[Doctrine DBAL](http://www.doctrine-project.org/projects/dbal.html)が同梱されていますが、やっぱりORMでプログラム書きたいので、Doctrine ORMを導入します。  

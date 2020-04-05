@@ -1,24 +1,15 @@
 ---
-'created_at: ': '2015-05-15T00:21:56+09:00'
+date: '2015-05-15T00:21:56+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: PHP
-      versions: []
-    - name: Selenium
-      versions: []
-    - name: codeception
-      versions: []
-    - name: InternetExplorer
-      versions: []
-  state: 0
-title: "Internet Explorer\u3067Web\u30A2\u30D7\u30EA\u3092\u30C6\u30B9\u30C8\u3059\
-  \u308B\u3002Codeception\u3068Selenium\u3092\u4F7F\u3063\u3066\u3002\u3010\u6E96\u5099\
-  \u7DE8\u3011"
-'updated_at: ': '2015-05-15T13:26:22+09:00'
+published: true
+qiita_article_id: 2edfc9742db1f1d9d0d4
+tags:
+- PHP
+- Selenium
+- codeception
+- InternetExplorer
+title: Internet ExplorerでWebアプリをテストする。CodeceptionとSeleniumを使って。【準備編】
+updated: '2015-05-15T13:26:22+09:00'
 
 ---
 # :one: 環境  

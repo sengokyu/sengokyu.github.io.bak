@@ -1,21 +1,14 @@
 ---
-'created_at: ': '2016-11-08T17:08:42+09:00'
+date: '2016-11-08T17:08:42+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: CentOS
-      versions: []
-    - name: KVM
-      versions: []
-    - name: libvirt
-      versions: []
-  state: 0
-title: "[CentOS 7][KVM] virt-install\u306E\u5178\u578B\u7684\uFF08\uFF1F\uFF09\u306A\
-  \u4F7F\u7528\u4F8B"
-'updated_at: ': '2016-11-08T17:08:42+09:00'
+published: true
+qiita_article_id: 90bee2b005e660510d94
+tags:
+- CentOS
+- KVM
+- libvirt
+title: '[CentOS 7][KVM] virt-installの典型的（？）な使用例'
+updated: '2016-11-08T17:08:42+09:00'
 
 ---
 # 典型的（？）な使い方  

@@ -1,19 +1,13 @@
 ---
-'created_at: ': '2015-09-10T20:58:28+09:00'
+date: '2015-09-10T20:58:28+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Java
-      versions: []
-    - name: testing
-      versions: []
-  state: 0
-title: "[Java][test] Java Web\u30C6\u30B9\u30C8\u30C4\u30FC\u30EB\u6587\u6CD5\u307E\
-  \u3068\u3081"
-'updated_at: ': '2016-08-09T09:07:43+09:00'
+published: true
+qiita_article_id: 6b8a7387f6241814f2b1
+tags:
+- Java
+- testing
+title: '[Java][test] Java Webテストツール文法まとめ'
+updated: '2016-08-09T09:07:43+09:00'
 
 ---
 # 概要  

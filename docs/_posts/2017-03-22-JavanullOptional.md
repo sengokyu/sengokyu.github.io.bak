@@ -1,20 +1,13 @@
 ---
-'created_at: ': '2017-03-22T22:11:32+09:00'
+date: '2017-03-22T22:11:32+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Java
-      versions: []
-    - name: "null\u5B89\u5168"
-      versions: []
-  state: 0
-title: "[Java] null\u3092\u8FD4\u3059\u30E1\u30BD\u30C3\u30C9\u306E\u623B\u308A\u5024\
-  \u306FOptional<>\u306B\u3059\u308B\u3068\u5E78\u305B\u304B\u3082\u3057\u308C\u306A\
-  \u3044"
-'updated_at: ': '2017-03-22T22:11:32+09:00'
+published: true
+qiita_article_id: 333ff38c670c758633e4
+tags:
+- Java
+- null安全
+title: '[Java] nullを返すメソッドの戻り値はOptional<>にすると幸せかもしれない'
+updated: '2017-03-22T22:11:32+09:00'
 
 ---
 # Optional<>前夜  

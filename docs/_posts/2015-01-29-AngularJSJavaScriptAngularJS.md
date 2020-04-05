@@ -1,18 +1,12 @@
 ---
-'created_at: ': '2015-01-29T12:05:07+09:00'
+date: '2015-01-29T12:05:07+09:00'
 layout: post
-published: 'true'
-tags: !!python/object/apply:builtins.map
-- !!python/name:__main__.%3Clambda%3E ''
-- !!python/object/apply:builtins.iter
-  args:
-  - - name: Angular
-      versions: []
-  state: 0
-title: "[AngularJS][JavaScript] AngularJS\u30A2\u30D7\u30EA\u3092\u30D6\u30E9\u30A6\
-  \u30B6\u306E\u30B3\u30F3\u30BD\u30FC\u30EB\u304B\u3089\u30C7\u30D0\u30C3\u30B0\u3059\
-  \u308B\u65B9\u6CD5"
-'updated_at: ': '2016-08-08T13:37:09+09:00'
+published: true
+qiita_article_id: 02029aad29cd7f5744bb
+tags:
+- Angular
+title: '[AngularJS][JavaScript] AngularJSアプリをブラウザのコンソールからデバッグする方法'
+updated: '2016-08-08T13:37:09+09:00'
 
 ---
 angularjsで定義したスコープの中身をちょっと覗いてみる方法です。  
