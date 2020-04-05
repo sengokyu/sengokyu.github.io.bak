@@ -1,22 +1,24 @@
-remote_theme: "mmistakes/jekyll-theme-basically-basic"
-lang: ja-JP
-title: Coeur de lion
-description: 外部記憶
-url: https://uart.dev/
 author: sengokyu
-repository: https://github.com/sengokyu/sengokyu.github.io
-timezone: Asia/Tokyo
-future: true
-plugins:
-- jekyll-avatar
-- jekyll-feed
-- jekyll-mentions
-- jekyll-redirect-from
-- jekyll-seo-tag
-- jekyll-sitemap
-- jemoji
+description: 外部記憶
 exclude:
 - ".gitignore"
 - ".jekyll-cache"
 - CNAME
 - README.md
+lang: ja-JP
+minima:
+  date_format: "%Y/%m/%d"
+plugins:
+- jekyll-avatar
+- jekyll-feed
+- jekyll-mentions
+- jekyll-redirect-from
+- jekyll-remote-theme
+- jekyll-seo-tag
+- jekyll-sitemap
+- jemoji
+remote_theme: jekyll/minima
+repository: https://github.com/sengokyu/sengokyu.github.io
+timezone: Asia/Tokyo
+title: Coeur de lion
+url: https://uart.dev/

@@ -1,0 +1,142 @@
+@charset "utf-8";
+body {
+  background-color: #f6f6f4;
+  color: #333;
+}
+
+.site-header {
+  background-color: #55c500;
+  color: white;
+}
+.site-title,
+.site-title:visited,
+.site-title:hover {
+  color: white;
+  text-decoration: none;
+}
+.site-nav .page-link {
+  color: white;
+}
+.site-footer {
+  background-color: #3e3e3e;
+  color: white;
+  margin-top: 64px;
+  padding: 32px 16px;
+}
+
+.post-list > li {
+  margin-bottom: 0;
+  padding: 16px 0px;
+}
+.post-list > li:nth-child(1n + 2) {
+  border-top: solid 1px #dddddd;
+}
+.post-list h3 {
+  margin: 0;
+}
+.post-list .post-link {
+  font-size: 18px;
+  font-weight: bold;
+  color: #343434;
+}
+.post-list .post-link:visited {
+  color: #767676;
+}
+.post-list .post-meta {
+  text-align: end;
+}
+
+.post-tag {
+  font-size: 13px;
+  margin-left: 0px;
+}
+.post-tag::before {
+  content: '\1f3f7';
+}
+.post-tag li {
+  list-style: none;
+  display: inline;
+}
+.post-tag li:nth-child(1n + 2)::before {
+  content: ', ';
+}
+
+.page-content .wrapper {
+  background-color: white;
+}
+.post-title {
+  font-size: 2.5rem;
+  font-weight: bold;
+  font-feature-settings: 'palt';
+  line-height: 1.4;
+  margin-bottom: 16px;
+}
+.post-content h1,
+.post-content h2,
+.post-content .h3,
+.post-content h4,
+.post-content h5,
+.post-content h6 {
+  font-weight: bold;
+  line-height: 1.5;
+  font-feature-settings: 'palt';
+  margin-top: 2.2em;
+  margin-bottom: 1.5rem;
+}
+.post-content h1,
+.post-content h2 {
+  border-bottom: 1px solid #ddd;
+  padding-bottom: 0.1em;
+}
+.post-content h1 {
+  font-size: 1.8em;
+}
+.post-content h2 {
+  font-size: 1.6em;
+}
+.post-content h3 {
+  font-size: 1.4em;
+}
+.post-content img {
+  margin: 1.5em 0;
+  max-width: 100%;
+  filter: drop-shadow(0px 0px 4px #888);
+}
+
+.tag-container {
+  display: flex;
+  align-items: flex-start;
+}
+.tag-container .tag-head {
+  flex: 0 0 220px;
+  margin-bottom: 24px;
+  margin-right: 24px;
+  padding: 24px;
+  text-align: center;
+  background-color: white;
+}
+.tag-container .tag-main {
+  flex-grow: 1;  
+  background-color: white;
+}
+.tag-head h2 {
+  text-align: center;
+  font-size: 1.12rem;
+  font-weight: 500;
+  line-height: 1.5rem;
+}
+.tag-head h2 a {
+  color: inherit;
+  text-decoration: none;
+}
+.tag-head .post-count {
+  display: block;
+  text-align: center;
+  font-size: 0.93rem;
+}
+.tag-head .post-count-unit {
+  display: block;
+  text-align: center;
+  font-size: 0.75rem;
+  color: #999;
+}

@@ -1,0 +1,8 @@
+{%- assign logo_path = include.logo_name |slugify | append: ".png" -%}
+{%- assign logo_path = "/assets/logos/" | append: logo_path -%}
+{%- assign logo_file = site.static_files | where: "path", logo_path | first -%}
+{%- if logo_file -%}
+    <img src="{{logo_file.path}}" width="72" alt="{{ include.logo_name }} LOGO">
+{%- else -%}
+    <img src="/assets/logos/unavailable.png" width="72">
+{%- endif -%}

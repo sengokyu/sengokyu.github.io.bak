@@ -1,0 +1,47 @@
+---
+layout: base
+---
+
+{{ content }}
+
+{%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
+
+{%- comment -%}
+タグタイトルをソートのために取り出し
+--
+メモ: Liquidは配列を宣言できないのでsplitを使う
+メモ: Hashにたいしてforを使うと、1番目にキー、2番目に値が入った配列をイテレートできる
+{%- endcomment -%}
+{%- assign tag_keys = "" | split:"," -%}
+{%- for tag in site.tags -%}
+  {%- assign tag_keys = tag_keys | push:tag[0] -%}  
+{%- endfor -%}
+{%- assign tag_keys = tag_keys | sort_natural -%}
+
+<div class="wider-wrapper">
+  <div class="tags">
+    {%- for tag_key in tag_keys -%}
+      <div class="tag-container">
+        <div class="tag-head">
+          <div class="tag-logo">{% include logo.html logo_name=tag_key %}</div>
+          <h2 class="tag-title"><a name="{{ tag_key }}">{{ tag_key | escape}}</a></h2>
+          <span class="post-count">{{ site.tags[tag_key].size }}</span>
+          <span class="post-count-unit">記事</span>
+        </div>
+        <ul class="tag-main post-list">
+          {%- for post in site.tags[tag_key] -%}
+            <li>
+              <h3>
+                <a class="post-link" href="{{ post.url | relative_url }}">
+                  {{ post.title | escape }}
+                </a>
+              </h3>
+              {% include post-tag.html %}
+              <div class="post-meta">{{ post.date | date: date_format }}</div>
+            </li>
+          {%- endfor -%}
+        </ul>
+      </div>
+    {%- endfor -%}
+  </div>
+</div>
